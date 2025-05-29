@@ -1,7 +1,7 @@
 {
   "name": "FightIQ",
   "short_name": "FightIQ",
-  "start_url": "https://ufctrivia.onrender.com/",
+  "start_url": "https://pwa-j4vx.onrender.com",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
