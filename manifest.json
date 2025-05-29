@@ -1,0 +1,17 @@
+{
+  "name": "FightIQ - Trivia App",
+  "short_name": "FightIQ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "A fast-paced combat sports trivia game.",
+  "icons": [
+    {
+      "src": "https://ufctrivia.onrender.com/static/img/logo_nosize.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
