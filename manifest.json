@@ -1,17 +1,37 @@
 {
-  "name": "FightIQ - Trivia App",
+  "name": "FightIQ",
   "short_name": "FightIQ",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "description": "A fast-paced combat sports trivia game.",
+  "description": "FightIQ is the ultimate sports trivia app — UFC, Football, and more!",
+  "orientation": "portrait",
+  "scope": "/",
+  "app_id": "com.fightiq.app",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "categories": ["games", "trivia", "sports"],
   "icons": [
     {
-      "src": "https://ufctrivia.onrender.com/static/img/logo_nosize.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/static/screenshot1.png",
+      "sizes": "540x960",
+      "type": "image/png"
     }
   ]
 }
