@@ -9,10 +9,22 @@
   "orientation": "portrait",
   "scope": "/",
   "app_id": "com.fightiq.app",
+  "dir": "ltr",  // ✅ Default text direction
+  "lang": "en",  // ✅ Language
+  "iarc_rating_id": "e10+",  // ✅ You can just use a placeholder like this unless required for store submission
   "launch_handler": {
     "client_mode": "auto"
   },
   "categories": ["games", "trivia", "sports"],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.fightiq.app",
+      "url": "https://play.google.com/store/apps/details?id=com.fightiq.app"
+    }
+  ],
+  "prefer_related_applications": false,  // ✅ Tells browser not to auto-suggest native app
+  "scope_extensions": [],  // ✅ Empty for now — no extended scopes
   "icons": [
     {
       "src": "/static/icon-192.png",
