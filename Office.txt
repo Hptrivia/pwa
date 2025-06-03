@@ -1,0 +1,1740 @@
+[
+  {
+    "id": "office-ez-001",
+    "question": "Who was the regional manager of Dunder Mifflin Scranton at the beginning of the series?",
+    "options": [
+      "Jim Halpert",
+      "Michael Scott",
+      "Dwight Schrute",
+      "Andy Bernard"
+    ],
+    "answer": "Michael Scott",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-002",
+    "question": "What is the name of the receptionist at the start of the show?",
+    "options": [
+      "Pam Beesly",
+      "Erin Hannon",
+      "Angela Martin",
+      "Karen Filippelli"
+    ],
+    "answer": "Pam Beesly",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-003",
+    "question": "Which character often plays pranks on Dwight?",
+    "options": [
+      "Stanley",
+      "Ryan",
+      "Jim",
+      "Toby"
+    ],
+    "answer": "Jim",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-004",
+    "question": "What is the name of the paper company the show revolves around?",
+    "options": [
+      "Staples",
+      "Dunder Mifflin",
+      "Sabre",
+      "OfficeMax"
+    ],
+    "answer": "Dunder Mifflin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-005",
+    "question": "What is Dwight´s middle name'?",
+    "options": [
+      "Kurt",
+      "Burt",
+      "Kevin",
+      "Devin"
+    ],
+    "answer": "Kurt",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-006",
+    "question": "Which character is known for their love of beets?",
+    "options": [
+      "Kevin",
+      "Dwight",
+      "Oscar",
+      "Meredith"
+    ],
+    "answer": "Dwight",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-007",
+    "question": "What position does Jim eventually get promoted to?",
+    "options": [
+      "Receptionist",
+      "Branch Manager",
+      "Co-Manager",
+      "CEO"
+    ],
+    "answer": "Co-Manager",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-008",
+    "question": "What is the name of Pam's fiance at the start of the show?",
+    "options": [
+      "Roy",
+      "Jim",
+      "Andy",
+      "Toby"
+    ],
+    "answer": "Roy",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-009",
+    "question": "What pet does Angela have many of?",
+    "options": [
+      "Cats",
+      "Dogs",
+      "Hamsters",
+      "Fish"
+    ],
+    "answer": "Cats",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-010",
+    "question": "What game do the employees play in the episode 'Office Olympics'?",
+    "options": [
+      "Basketball",
+      "Flonkerton",
+      "Plonpton",
+      "Plonkerton"
+    ],
+    "answer": "Flonkerton",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-011",
+    "question": "What is the key to Kevin´s chili. Undercooking the....?",
+    "options": [
+      "Onions",
+      "Meat",
+      "Tomatoes",
+      "Beans"
+    ],
+    "answer": "Onions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-ez-012",
+    "question": "Who starts the fire in the office during a safety drill?",
+    "options": [
+      "Michael",
+      "Dwight",
+      "Creed",
+      "Angela"
+    ],
+    "answer": "Dwight",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-013",
+    "question": "Who is the head of HR in the Scranton branch?",
+    "options": [
+      "Jim",
+      "Kevin",
+      "Toby",
+      "Oscar"
+    ],
+    "answer": "Toby",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-014",
+    "question": "What state is the Dunder Mifflin Scranton branch located in?",
+    "options": [
+      "New York",
+      "Pennsylvania",
+      "Ohio",
+      "Connecticut"
+    ],
+    "answer": "Pennsylvania",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-015",
+    "question": "Which character is known for their poor accounting skills?",
+    "options": [
+      "Angela",
+      "Oscar",
+      "Kevin",
+      "Ryan"
+    ],
+    "answer": "Kevin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-016",
+    "question": "Which character loves crossword puzzles?",
+    "options": [
+      "Stanley",
+      "Angela",
+      "Pam",
+      "Andy"
+    ],
+    "answer": "Stanley",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-017",
+    "question": "Who replaces Pam as the receptionist?",
+    "options": [
+      "Karen",
+      "Kelly",
+      "Erin",
+      "Jan"
+    ],
+    "answer": "Erin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-018",
+    "question": "What is the name of the annual office award ceremony hosted by Michael?",
+    "options": [
+      "The Dundies",
+      "The Scranties",
+      "The Scotties",
+      "The Dunder Awards"
+    ],
+    "answer": "The Dundies",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-019",
+    "question": "What kind of farm does Dwight own?",
+    "options": [
+      "Corn",
+      "Dairy",
+      "Beet",
+      "Pumpkin"
+    ],
+    "answer": "Beet",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-020",
+    "question": "Which character is known for being a kleptomaniac?",
+    "options": [
+      "Creed",
+      "Phyllis",
+      "Angela",
+      "Meredith"
+    ],
+    "answer": "Creed",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-021",
+    "question": "What is the name of Michael Scott's movie?",
+    "options": [
+      "Threat Level Midnight",
+      "Agent Michael Scarn",
+      "Danger Man",
+      "The Scranton Files"
+    ],
+    "answer": "Threat Level Midnight",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-022",
+    "question": "What kind of car does Michael drive?",
+    "options": [
+      "Chrysler Sebring",
+      "Toyota Corolla",
+      "Ford Focus",
+      "Honda Accord"
+    ],
+    "answer": "Chrysler Sebring",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-023",
+    "question": "Which one of these is not one of Angela´s cats?",
+    "options": [
+      "Sprinkles",
+      "Snowy",
+      "Crinklepuss",
+      "Bandit"
+    ],
+    "answer": "Snowy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-ez-223",
+    "question": "What is Angela´s surname?",
+    "options": [
+      "Martin",
+      "Anderson",
+      "Lewis",
+      "Miller"
+    ],
+    "answer": "Martin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-024",
+    "question": "What is the name of the temp who later becomes a VP?",
+    "options": [
+      "Ryan",
+      "Gabe",
+      "Andy",
+      "Toby"
+    ],
+    "answer": "Ryan",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-025",
+    "question": "What is the name of Micheal´s nephew which he hires in the office?",
+    "options": [
+      "Matt",
+      "Sean",
+      "Owen",
+      "Luke"
+    ],
+    "answer": "Luke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-026",
+    "question": "Who does Michael date that is also his boss?",
+    "options": [
+      "Jan",
+      "Pam",
+      "Donna",
+      "Holly"
+    ],
+    "answer": "Jan",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-027",
+    "question": "Who says, 'Bears. Beets. Battlestar Galactica'?",
+    "options": [
+      "Michael",
+      "Dwight",
+      "Jim",
+      "Andy"
+    ],
+    "answer": "Jim",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-028",
+    "question": "What is the name of Jim and Pam's first child?",
+    "options": [
+      "Cecilia",
+      "Elizabeth",
+      "Lily",
+      "Emma"
+    ],
+    "answer": "Cecilia",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-ez-029",
+    "question": "Which character runs the warehouse?",
+    "options": [
+      "Stanley",
+      "Roy",
+      "Darryl",
+      "Craig"
+    ],
+    "answer": "Darryl",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-030",
+    "question": "What is Creed's job title?",
+    "options": [
+      "Sales Rep",
+      "HR Manager",
+      "Quality Assurance",
+      "Receptionist"
+    ],
+    "answer": "Quality Assurance",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-031",
+    "question": "What is the name of Pam´s mother that Michael dates?",
+    "options": [
+      "Helena",
+      "Racheal",
+      "Jessica",
+      "Esther"
+    ],
+    "answer": "Helena",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-ez-322",
+    "question": "What kind of car does Pam´s mother drive?",
+    "options": [
+      "Green Chrysler",
+      "Green Corolla",
+      "Green Camry",
+      "Green Honda"
+    ],
+    "answer": "Green Camry",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-ez-033",
+    "question": "What is Meredith's job?",
+    "options": [
+      "Customer Service",
+      "Purchasing",
+      "Accounting",
+      "Reception"
+    ],
+    "answer": "Purchasing",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-ez-034",
+    "question": "Who accidentally hits Meredith with their car?",
+    "options": [
+      "Jim",
+      "Michael",
+      "Andy",
+      "Ryan"
+    ],
+    "answer": "Michael",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-035",
+    "question": "Where did Andy go to college?",
+    "options": [
+      "Princeton",
+      "Yale",
+      "Columbia",
+      "Cornell"
+    ],
+    "answer": "Cornell",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-036",
+    "question": "What is the name of Andy's college a cappella group?",
+    "options": [
+      "Here Comes Treble",
+      "Pitch Perfect",
+      "The Cornell Notes",
+      "The Vocal Kings"
+    ],
+    "answer": "Here Comes Treble",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-ez-037",
+    "question": "What is the name of the documentary crew's boom mic operator?",
+    "options": [
+      "Brian",
+      "Mark",
+      "John",
+      "Tom"
+    ],
+    "answer": "Brian",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-ez-038",
+    "question": "What does Dwight call his porcupine?",
+    "options": [
+      "Henrietta",
+      "Spike",
+      "Lord Quill",
+      "Needles"
+    ],
+    "answer": "Henrietta",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-001",
+    "question": "What song does Michael sing Karaoke together with Andy at the office Christmas party?",
+    "options": [
+      "Jingle Bells",
+      "Happy Birthday Jesus",
+      "Your Body is a Wonderland",
+      "Goodbye Stranger"
+    ],
+    "answer": "Your Body is a Wonderland",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-002",
+    "question": "What is the name of Dwight's cousin who works on the farm?",
+    "options": [
+      "Zeke",
+      "Mose",
+      "Jeb",
+      "Luke"
+    ],
+    "answer": "Mose",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-003",
+    "question": "What does Jim write in his wedding toast that makes Pam cry?",
+    "options": [
+      "I love you",
+      "Plan A was marrying you",
+      "To the best day",
+      "You make me whole"
+    ],
+    "answer": "Plan A was marrying you",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-004",
+    "question": "Who starts the fire that leads to the infamous fire drill?",
+    "options": [
+      "Michael",
+      "Dwight",
+      "Angela",
+      "Ryan"
+    ],
+    "answer": "Dwight",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-005",
+    "question": "What name does Andy ask people to call him after returning from anger management?",
+    "options": [
+      "Drew",
+      "Ace",
+      "Nard Dog",
+      "D-Man"
+    ],
+    "answer": "Drew",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-005",
+    "question": "What name does Andy keep calling Jim?",
+    "options": [
+      "Tuna",
+      "Ace",
+      "Jimmy",
+      "Kahuna"
+    ],
+    "answer": "Tuna",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-md-065",
+    "question": "For how long had Micheal Scott been regional manager at the start of the show?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-075",
+    "question": "For how long had Micheal Scott been working at Dundler Mifflin at the start of the show?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-md-006",
+    "question": "What does Jim use to prank Dwight with Pavlovian conditioning everytime his computer chimed?",
+    "options": [
+      "Altoid",
+      "Gum",
+      "Peppermint",
+      "Mentos"
+    ],
+    "answer": "Altoid",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-007",
+    "question": "What is Jan's baby's name?",
+    "options": [
+      "Astrid",
+      "Olivia",
+      "Emily",
+      "Cynthia"
+    ],
+    "answer": "Astrid",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-067",
+    "question": "Who was later revealed to be Jan`s baby´s father?",
+    "options": [
+      "Mark Lanz",
+      "Andy Roddick",
+      "John Mayer",
+      "Peter Martins"
+    ],
+    "answer": "Andy Roddick",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-md-107",
+    "question": "What song does Micheal first sing during the CPR lesson with the dummy?",
+    "options": [
+      "Staying Alive",
+      "I will survive",
+      "Islands in the stream",
+      "Still Breathing"
+    ],
+    "answer": "I will survive",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-067",
+    "question": "What is the name of the CPR instructor who tried to teach them how to resuscitate using a dummy?",
+    "options": [
+      "Rose",
+      "Carla",
+      "Edith",
+      "Esther"
+    ],
+    "answer": "Rose",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-008",
+    "question": "What is the name of Angela's favorite cat who was killed?",
+    "options": [
+      "Bandit",
+      "Sprinkles",
+      "Princess Lady",
+      "Garbage"
+    ],
+    "answer": "Sprinkles",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-010",
+    "question": "Who does Dwight shoot with a tranquilizer dart after he refuses to go on a sales call?",
+    "options": [
+      "Creed",
+      "Angela",
+      "Stanley",
+      "Jim"
+    ],
+    "answer": "Stanley",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-011",
+    "question": "What institute did Pam enroll in to get an art degree?",
+    "options": [
+      "Pratt Institute",
+      "Morris Institute",
+      "Rhode Island Art Institute",
+      "California Art Institute"
+    ],
+    "answer": "Pratt Institute",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-013",
+    "question": "What restaurant does Michael and Jan kiss for the first time?",
+    "options": [
+      "Chili's",
+      "Applebee's",
+      "Bennigan's",
+      "Outback Steakhouse"
+    ],
+    "answer": "Chili's",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-014",
+    "question": "What is the name of the award Kevin wins at the Dundies?",
+    "options": [
+      "Don't Go In There After Me",
+      "Hottest in the Office",
+      "Best Hair",
+      "Slowest in the Office"
+    ],
+    "answer": "Don't Go In There After Me",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-015",
+    "question": "Who punches a hole in the wall during a tantrum?",
+    "options": [
+      "Michael",
+      "Dwight",
+      "Andy",
+      "Ryan"
+    ],
+    "answer": "Andy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-016",
+    "question": "What is Ryan's job title after being released from prison on community service?",
+    "options": [
+      "Receptionist",
+      "Temp employee",
+      "Sales person",
+      "Accountant"
+    ],
+    "answer": "Receptionist",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-017",
+    "question": "Which character becomes the regional manager after Michael leaves?",
+    "options": [
+      "Jim",
+      "Dwight",
+      "Andy",
+      "Stanley"
+    ],
+    "answer": "Andy",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-0117",
+    "question": "Who was the replacement manager of Dundler Mifflin after Michael leaves with Holly?",
+    "options": [
+      "Deangelo Vickers",
+      "Dwight Schrute",
+      "Andy Bernard",
+      "Robert California"
+    ],
+    "answer": "Deangelo Vickers",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-018",
+    "question": "Where does Jim propose to Pam?",
+    "options": [
+      "The office",
+      "Gas station",
+      "Chilli´s",
+      "Convenience store"
+    ],
+    "answer": "Gas station",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-019",
+    "question": "What is the name of Dwight's son?",
+    "options": [
+      "Philip",
+      "Mose",
+      "Mark",
+      "Michael"
+    ],
+    "answer": "Philip",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-020",
+    "question": "What is Stanley's favorite day of the year?",
+    "options": [
+      "Pretzel Day",
+      "Christmas",
+      "Birthday",
+      "Dundies Night"
+    ],
+    "answer": "Pretzel Day",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-021",
+    "question": "Who was Pam's friend in art school that encouraged her to stay in New York?",
+    "options": [
+      "Sean",
+      "Alex",
+      "Mark",
+      "David"
+    ],
+    "answer": "Alex",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-022",
+    "question": "What brand is the copier that causes frequent problems?",
+    "options": [
+      "HP",
+      "Xerox",
+      "Canon",
+      "Panasonic"
+    ],
+    "answer": "Xerox",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-024",
+    "question": "What office supply item of Dwights did Jim encase in Jell-O?",
+    "options": [
+      "Stapler",
+      "Phone",
+      "Mouse",
+      "Calculator"
+    ],
+    "answer": "Stapler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-025",
+    "question": "Which office character had a history of being in prison for insider trading?",
+    "options": [
+      "Creed",
+      "Mark",
+      "Ben",
+      "Martin"
+    ],
+    "answer": "Martin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-026",
+    "question": "What tattoo does Andy in season 8?",
+    "options": [
+      "Angela",
+      "Nard Dog",
+      "A heart",
+      "The Cornell logo"
+    ],
+    "answer": "Nard Dog",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-027",
+    "question": "Where do Jim and Pam get married?",
+    "options": [
+      "Scranton Church",
+      "Niagara Falls",
+      "New York",
+      "The Office"
+    ],
+    "answer": "Niagara Falls",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-028",
+    "question": "Which of these isnt a fake disease listed from the episode where Dwight cuts the health insurance of the employees ?",
+    "options": [
+      "Count Choculitis",
+      "Hot Dog fingers",
+      "Nanorobot infection",
+      "Meeting Sclerosis"
+    ],
+    "answer": "Meeting Sclerosis",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-029",
+    "question": "What is Meredith allegic to ?",
+    "options": [
+      "Peanut",
+      "Shellfish",
+      "Dairy",
+      "Pollen"
+    ],
+    "answer": "Dairy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-030",
+    "question": "Which character wasnt a part of Micheal´s basketball team vs the warehouse?",
+    "options": [
+      "Oscar",
+      "Jim",
+      "Stanley",
+      "Ryan"
+    ],
+    "answer": "Oscar",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-031",
+    "question": "How much does Micheal donate to Oscar´s nephew Charity run only to letter find out it wasnt a flat sum?",
+    "options": [
+      "$15",
+      "$25",
+      "$35",
+      "$45"
+    ],
+    "answer": "$25",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-md-032",
+    "question": "Who temporarily replaces Pam as receptionist while she's in art school?",
+    "options": [
+      "Ryan",
+      "Kelly",
+      "Ronni",
+      "Erin"
+    ],
+    "answer": "Ronni",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-033",
+    "question": "What is Jim's middle name?",
+    "options": [
+      "Duncan",
+      "Douglas",
+      "Mark",
+      "Michael"
+    ],
+    "answer": "Duncan",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-034",
+    "question": "What is the name of the Scranton branch's building owner?",
+    "options": [
+      "David Wallace",
+      "Bill Cress",
+      "Billy Merchant",
+      "Mark Strickland"
+    ],
+    "answer": "Billy Merchant",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-md-036",
+    "question": "What company buys Dunder Mifflin mid-series?",
+    "options": [
+      "Staples",
+      "Sabre",
+      "Prince Paper",
+      "Office Depot"
+    ],
+    "answer": "Sabre",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-md-038",
+    "question": "What role does Gabe hold at Sabre?",
+    "options": [
+      "Branch Manager",
+      "HR Representative for Emerging Regions",
+      "Corporate Liaison for Emerging Regions",
+      "Coordinating Director of Emerging Regions"
+    ],
+    "answer": "Coordinating Director of Emerging Regions",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-001",
+    "question": "What is the name of the security guard at Dunder Mifflin Scranton?",
+    "options": [
+      "Frank",
+      "Lonny",
+      "Hank",
+      "Carl"
+    ],
+    "answer": "Hank",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-002",
+    "question": "What is the name of the bar where the office staff often hang out?",
+    "options": [
+      "Poor Richard's",
+      "O'Malley's",
+      "Scranton Pub",
+      "Ricks Taproom"
+    ],
+    "answer": "Poor Richard's",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-003",
+    "question": "What did Michael burn his foot on?",
+    "options": [
+      "Curling iron",
+      "Steak grill",
+      "Foreman grill",
+      "Heater vent"
+    ],
+    "answer": "Foreman grill",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-005",
+    "question": "What does Ryan get arrested for?",
+    "options": [
+      "Drugs",
+      "Stealing",
+      "Fraud",
+      "Drunk driving"
+    ],
+    "answer": "Fraud",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-006",
+    "question": "Who steals all of Michael's clients after he leaves Dunder Mifflin?",
+    "options": [
+      "Jan",
+      "Ryan",
+      "Pam",
+      "Dwight"
+    ],
+    "answer": "Dwight",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-007",
+    "question": "What is the name of the branch manager in Utica?",
+    "options": [
+      "Philip",
+      "Josh",
+      "Nick",
+      "Tony"
+    ],
+    "answer": "Josh",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-008",
+    "question": "What is the title of Michael Scott's self-published book?",
+    "options": [
+      "Somehow I Manage",
+      "The Manager's Handbook",
+      "Micro Manage",
+      "Lead with Laughter"
+    ],
+    "answer": "Somehow I Manage",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-009",
+    "question": "What city was Holly transferred to when she left Scranton?",
+    "options": [
+      "New York",
+      "Nashua",
+      "Stamford",
+      "Buffalo"
+    ],
+    "answer": "Nashua",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-010",
+    "question": "What is the name of Dwight's brother who owns a marijuana farm?",
+    "options": [
+      "Mose",
+      "Jeb",
+      "Zeke",
+      "Caleb"
+    ],
+    "answer": "Jeb",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-011",
+    "question": "What role did Jim play in Michael's 'Threat Level Midnight' movie?",
+    "options": [
+      "Silverface",
+      "Bronzeface",
+      "Goldenface",
+      "Scarn's"
+    ],
+    "answer": "Goldenface",
+    "difficulty": "easy"
+  },
+  {
+    "id": "office-hd-012",
+    "question": "What city in Jamaica do Michael and Jan travel to for a vacation?",
+    "options": [
+      "Sandals",
+      "Sandy Bay",
+      "Port Maria",
+      "Lucea"
+    ],
+    "answer": "Sandals",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-012",
+    "question": "Where do Michael and Jan travel to for a business meeting orchestrated by David Wallace?",
+    "options": [
+      "Pittsburgh",
+      "Buffalo",
+      "Philadelphia",
+      "Winnipeg"
+    ],
+    "answer": "Winnipeg",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-014",
+    "question": "What is the name of the girl who sells handbags in the office and Jim dates?",
+    "options": [
+      "Katy",
+      "Eloise",
+      "Yvonne",
+      "Julia"
+    ],
+    "answer": "Katy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-015",
+    "question": "What is the name of Stanley´s wife at the beginning of the show?",
+    "options": [
+      "Angela",
+      "Stella",
+      "Terri",
+      "Franca"
+    ],
+    "answer": "Terri",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-016",
+    "question": "What is the name of Andy's brother?",
+    "options": [
+      "Josh",
+      "Walter",
+      "Hunter",
+      "Chip"
+    ],
+    "answer": "Walter",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-017",
+    "question": "Who wins the Busiest Beaver awards at the first Dundies in the show?",
+    "options": [
+      "Angela",
+      "Phyllis",
+      "Meredith",
+      "Erin"
+    ],
+    "answer": "Phyllis",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-017",
+    "question": "Who wins the Tight Ass awards at the first Dundies in the show?",
+    "options": [
+      "Angela",
+      "Phyllis",
+      "Pam",
+      "Erin"
+    ],
+    "answer": "Angela",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-019",
+    "question": "What does Oscar and Kevin call the game they both play while Micheal is away?",
+    "options": [
+      "Hate Ball",
+      "Card Shuffle",
+      "Paper Toss",
+      "Dunderball"
+    ],
+    "answer": "Hate Ball",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-020",
+    "question": "How many acres is Dwight´s beet farm?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "answer": "60",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-021",
+    "question": "What is the name of the stripper Dwight hires for Bob Vance´s bachelorette party?",
+    "options": [
+      "Elizabeth",
+      "Amber",
+      "Candy",
+      "Tiffany"
+    ],
+    "answer": "Elizabeth",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-022",
+    "question": "What is Toby's daughter's name?",
+    "options": [
+      "Sasha",
+      "Emma",
+      "Katie",
+      "Grace"
+    ],
+    "answer": "Sasha",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-024",
+    "question": "What game wasn´t suggested to be played during the fire emergency ?",
+    "options": [
+      "Charades",
+      "Would you Rather",
+      "Desert Island",
+      "Who Would You Do?"
+    ],
+    "answer": "Charades",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-025",
+    "question": "Which of the following movies did Meredith not say she will take to a deserted Island?",
+    "options": [
+      "Legends of the Fall",
+      "My Big Fat Greek Wedding",
+      "Legally Blonde",
+      "The Lakehouse"
+    ],
+    "answer": "The Lakehouse",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-026",
+    "question": "Who played Michael's replacement, Deangelo Vickers?",
+    "options": [
+      "Will Ferrell",
+      "James Spader",
+      "Jim Carrey",
+      "Ed Helms"
+    ],
+    "answer": "Will Ferrell",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-025",
+    "question": "Which of the following movies did Pam not say she will take to a deserted Island?",
+    "options": [
+      "Dazed and Confused",
+      "My Big Fat Greek Wedding",
+      "The Princess Bride",
+      "Edward Scissorhands"
+    ],
+    "answer": "My Big Fat Greek Wedding",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-hd-028",
+    "question": "Which famous singer guest-starred as Andy´s brother in the show?",
+    "options": [
+      "Josh Groban",
+      "Ed Sheeran",
+      "Clay Aiken",
+      "Aaron Rodgers"
+    ],
+    "answer": "Josh Groban",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-hd-029",
+    "question": "What is Dwight´s favorite movie?",
+    "options": [
+      "The Crow",
+      "The Hobbit",
+      "Dreamcatcher",
+      "Constantine"
+    ],
+    "answer": "The Crow",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-030",
+    "question": "When playing the game, Who would you rather do, who does Jim choose ?",
+    "options": [
+      "Erin",
+      "Phyllis",
+      "Kevin",
+      "Oscar"
+    ],
+    "answer": "Kevin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-031",
+    "question": "During which event does Micheal have to choose someone in the office to fire?",
+    "options": [
+      "Christmas",
+      "Stanley´s Birthday",
+      "Halloween",
+      "Meredith´s Birthday"
+    ],
+    "answer": "Halloween",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-032",
+    "question": "Which character from The Office was also a writer on the show?",
+    "options": [
+      "Mindy Kaling",
+      "Jenna Fischer",
+      "Ellie Kemper",
+      "Paul Lieberstein"
+    ],
+    "answer": "Mindy Kaling",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hd-033",
+    "question": "What does Dwight dress up for the first Halloween in the office?",
+    "options": [
+      "Sith Lord",
+      "The Joker",
+      "Dracula",
+      "Stormtrooper"
+    ],
+    "answer": "Sith Lord",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-034",
+    "question": "Who did Creed suggest Micheal fire instead of him?",
+    "options": [
+      "Darryl",
+      "Stanley",
+      "Lonni",
+      "Devon"
+    ],
+    "answer": "Devon",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-035",
+    "question": "What belt in Goju Ru Karate does Dwight say his Sensei recently promoted him to^?",
+    "options": [
+      "White",
+      "Brown",
+      "Purple",
+      "Black"
+    ],
+    "answer": "Purple",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-036",
+    "question": "Which of the following is not one of Micheal´s office Haloween costumes?",
+    "options": [
+      "OJ",
+      "Monica Lewinsky",
+      "Janet Jackson´s boob",
+      "Bill Cosby"
+    ],
+    "answer": "Bill Cosby",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-hd-037",
+    "question": "What movie does Micheal say Dwight cried at the end of in the episode where they both fight?",
+    "options": [
+      "Titanic",
+      "Armageddon",
+      "The Notebook",
+      "Star Wars"
+    ],
+    "answer": "Armageddon",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-001",
+    "question": "What is the name of Jan's candle company?",
+    "options": [
+      "Serenity by Jan",
+      "Wicks & Wax",
+      "Flame & Fragrance",
+      "Candles by Jan"
+    ],
+    "answer": "Serenity by Jan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-xp-002",
+    "question": "How many men does Dwight say his maternal grandather killed in WWII?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "20",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-003",
+    "question": "What was the name of Kevin's band?",
+    "options": [
+      "Scrantonicity",
+      "The Electric City",
+      "Paper Jam",
+      "Kevin and the Zits"
+    ],
+    "answer": "Scrantonicity",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-xp-004",
+    "question": "Who was Micheal Scott´s initial emergency contact?",
+    "options": [
+      "Jann Levinson Gould",
+      "Ryan Howard",
+      "Todd Packer",
+      "Jim Halpert"
+    ],
+    "answer": "Todd Packer",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-005",
+    "question": "What street is Dunder Mifflin Scranton located on?",
+    "options": [
+      "Lackawanna Avenue",
+      "Penn Avenue",
+      "Scranton Way",
+      "Main Street"
+    ],
+    "answer": "Lackawanna Avenue",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-xp-006",
+    "question": "In the episode were they both kissed, where was Jan planning to have the meeting with the client before Micheal changed it?",
+    "options": [
+      "Chilli´s",
+      "Raddison",
+      "Hyatt",
+      "Sheraton"
+    ],
+    "answer": "Raddison",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-007",
+    "question": "What drink does Micheal offer to share with the client in the restaurant meeting with Jan?",
+    "options": [
+      "Awesome Blossom",
+      "Delicious Blossom",
+      "Tasty Blossom",
+      "Cherry Berries"
+    ],
+    "answer": "Awesome Blossom",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-xp-009",
+    "question": "Where did Agent Micheal Scarn work in Micheals screenplay?",
+    "options": [
+      "FBI",
+      "CSI",
+      "DEA",
+      "NYPD"
+    ],
+    "answer": "FBI",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-010",
+    "question": "What's the title of the documentary about the office?",
+    "options": [
+      "The Office",
+      "Dunder Mifflin Diaries",
+      "The Office Management",
+      "The Office: An American Workplace"
+    ],
+    "answer": "The Office: An American Workplace",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-011",
+    "question": "In the episode where Micheal and Jan kiss, What food does Micheal order at the restaurant?",
+    "options": [
+      "Ribs",
+      "Steak",
+      "Pasta",
+      "Pizza"
+    ],
+    "answer": "Ribs",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-012",
+    "question": "Who is Micheal´s assistant in Threat Level Midnight?",
+    "options": [
+      "Samuel L Chang",
+      "Catherine Zeta Jones",
+      "Cornelius Wiggums",
+      "Tom Crews"
+    ],
+    "answer": "Samuel L Chang",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-013",
+    "question": "What branch almost merges with Dunder Mifflin Scranton?",
+    "options": [
+      "Ohio",
+      "Utica",
+      "Stamford",
+      "Nashua"
+    ],
+    "answer": "Stamford",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-xp-014",
+    "question": "What show did Dwight always want to watch with Micheal?",
+    "options": [
+      "Star Wars",
+      "Star Trek",
+      "Battlestar Galactica",
+      "Jurassic Park"
+    ],
+    "answer": "Battlestar Galactica",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-015",
+    "question": "What is the name of Jim´s roomate?",
+    "options": [
+      "Peter",
+      "Mark",
+      "Matt",
+      "Justin"
+    ],
+    "answer": "Mark",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-016",
+    "question": "What does Dwight alwas keep an extra set of in his car for special occasions?",
+    "options": [
+      "Weapons",
+      "Beet powder",
+      "Birkenstocks",
+      "Hats"
+    ],
+    "answer": "Birkenstocks",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-017",
+    "question": "What company does Michael start after quitting Dunder Mifflin?",
+    "options": [
+      "Scott Paper",
+      "Scranton Paper Co.",
+      "Michael Scott Paper Company",
+      "World's Best Paper"
+    ],
+    "answer": "Michael Scott Paper Company",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-hx-0007",
+    "question": "How many minutes did Michael Scott claim he worked at Dunder Mifflin?",
+    "options": [
+      "9,986,000",
+      "9,989,000",
+      "9,969,200",
+      "9,968,000"
+    ],
+    "answer": "9,986,000",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-exp-020",
+    "question": "Who was arrested and incarcerated as the Scranton Strangler?",
+    "options": ["George Howard Skub", "Toby Flenderson", "Devon White", "Robert Lipton"],
+    "answer": "George Howard Skub",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-exp-016",
+    "question": "Who did Pam date briefly after breaking off her engagement with Roy?",
+    "options": ["Danny", "Brian", "Alex", "Tom"],
+    "answer": "Danny",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-exp-014",
+    "question": "What college did Ryan attend for his MBA?",
+    "options": ["University of Scranton", "University of California", "Penn State", "New York University"],
+    "answer": "University of Scranton",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-exp-004",
+    "question": "What did Creed claim he sprouted on a damp paper towel in his desk drawer?",
+    "options": ["Potatoes", "Mung beans", "Alfalfa sprouts", "Brussel Sprouts"],
+    "answer": "Mung beans",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-019",
+    "question": "What relative does Dwight bring to the office as part of a mentorship program?",
+    "options": [
+      "Nephew",
+      "Cousin",
+      "Brother",
+      "Niece"
+    ],
+    "answer": "Nephew",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-exp-001",
+    "question": "What is the name of the song Jan's assistant Hunter wrote and Jan played at the Dinner Party?",
+    "options": ["That One Night", "Forever Yours", "The Dinner Party", "Midnight Serenade"],
+    "answer": "That One Night",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-exp-002",
+    "question": "What is Erin’s real first name?",
+    "options": ["Jessica", "Kelly", "Emily", "Amanda"],
+    "answer": "Kelly",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-exp-023",
+    "question": "What musical did Andy Bernard star in locally?",
+    "options": ["Sweeney Todd", "Rent", "The Music Man", "Les Misérables"],
+    "answer": "Sweeney Todd",
+    "difficulty": "medium"
+  },
+  {
+    "id": "office-exp-039",
+    "question": "What is Pam's favorite flavor of yogurt?",
+    "options": ["Mixed Berry", "Strawberry", "Vanilla", "Cherry"],
+    "answer": "Mixed Berry",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-exp-042",
+    "question": "What is the name of Darryl’s daughter?",
+    "options": ["Jada", "Jasmine", "Kayla", "Danielle"],
+    "answer": "Jada",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-exp-074",
+    "question": "Who was Dwight’s sensei at his dojo?",
+    "options": ["Sensei Ira", "Sensei Joe", "Sensei Bill", "Sensei Dan"],
+    "answer": "Sensei Ira",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-026",
+    "question": "What is the full name of David Wallace's invention?",
+    "options": [
+      "Suck It",
+      "The KidVac",
+      "Wallace Vac",
+      "Super Suck"
+    ],
+    "answer": "Suck It",
+    "difficulty": "hard"
+  },
+  {
+    "id": "office-xp-027",
+    "question": "What language does Dwight claim to be fluent in?",
+    "options": [
+      "German",
+      "Ukrainian",
+      "Icelandic",
+      "Esperanto"
+    ],
+    "answer": "German",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-028",
+    "question": "What is the real name of the actor who plays Mose?",
+    "options": [
+      "Paul Lieberstein",
+      "Michael Schur",
+      "Greg Daniels",
+      "B.J. Novak"
+    ],
+    "answer": "Michael Schur",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-029",
+    "question": "What is the name of the senator Angela dates who was gay?",
+    "options": [
+      "Senator Lipton",
+      "Senator Wallace",
+      "Senator Scott",
+      "Senator Howard"
+    ],
+    "answer": "Senator Lipton",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-030",
+    "question": "What is the relationship between Pam and the lady she sets Micheal on a date with?",
+    "options": [
+      "Friend",
+      "Landlady",
+      "Cousin",
+      "Art school teacher"
+    ],
+    "answer": "Landlady",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-031",
+    "question": "What is the name of the lady which Pam sets Micheal on a date on at a coffee shop?",
+    "options": [
+      "Margaret",
+      "Eleanor",
+      "Nana",
+      "Helene"
+    ],
+    "answer": "Margaret",
+    "difficulty": "expert"
+  },
+  {
+    "id": "office-xp-037",
+    "question": "What is Jim's prank gift to Dwight on his birthday?",
+    "options": [
+      "A stapler in Jell-O",
+      "An apology letter",
+      "A bobblehead",
+      "A wire recording pen"
+    ],
+    "answer": "A wire recording pen",
+    "difficulty": "expert"
+  }
+]

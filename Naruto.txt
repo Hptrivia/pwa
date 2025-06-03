@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "naruto-001",
+    "question": "When did Obito first awaken his mangekyou sharingan",
+    "options": ["when he killed his best friend", "when he saw rin get killed", "when rin was captured", "when kakashi´s eye was slashed"],
+    "answer": "when he saw rin get killed",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-002",
+    "question": "Which of the following is not a ninja from the hidden stone village",
+    "options": ["Akatsuchi", "Kurotsuchi", "Deidara", "Matsuchi"],
+    "answer": "Matsuchi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-003",
+    "question": "Who is the wielder of fang, the boltsword",
+    "options": ["ameyuri ringo", "jinin akebino", "jinpachi", "hozuki"],
+    "answer": "ameyuri ringo",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-004",
+    "question": "Which of the following isn’t part of Kakashi's ninja dogs",
+    "options": ["pakkun", "akino", "guruko", "Jinuki"],
+    "answer": "Jinuki",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-005",
+    "question": "Pakkun refers to his paws as",
+    "options": ["soft", "pura pura", "puri puri", "puro puro"],
+    "answer": "puri puri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-006",
+    "question": "What is the name of Pakkun's shampoo",
+    "options": ["floral green", "floral blue", "floral red", "floral pink"],
+    "answer": "floral green",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-007",
+    "question": "With whom does Pakkun share the same shampoo?",
+    "options": ["Ino", "Sakura", "kakashi's other dogs", "kakashi"],
+    "answer": "Sakura",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-008",
+    "question": "What is the ability of Pain's Animal Path?",
+    "options": ["absorbing ones jutsus", "shinra tensei", "summonings", "missiles"],
+    "answer": "summonings",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-009",
+    "question": "What is Anko's last name?",
+    "options": ["Masashi", "Misashi", "Matarashi", "Mitarashi"],
+    "answer": "Mitarashi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-010",
+    "question": "At what age did Anko become a genin",
+    "options": ["9", "10", "11", "12"],
+    "answer": "10",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-011",
+    "question": "Who discovered that Danzou was cheating at the HOKAGE summit?",
+    "options": ["Chojuro", "Mifune", "Ao", "Raikage"],
+    "answer": "Ao",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-012",
+    "question": "What is the name of Ao's partner at the summit",
+    "options": ["Chojuro", "Akatsuchi", "MIzukage", "Kankurou"],
+    "answer": "Chojuro",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-013",
+    "question": "What is Asuma´s relationship to Konohamaru",
+    "options": ["His godfather", "his uncle", "his cousin", "His nephew"],
+    "answer": "his uncle",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-014",
+    "question": "Who was Asuma's closest friend in the twelve guardian ninjas",
+    "options": ["Kazuma", "Chiriku", "Kitane", "Korune"],
+    "answer": "Chiriku",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-015",
+    "question": "Why did Asuma leave Konoha to join the twelve guardian ninjas",
+    "options": ["he was tired of Konoha", "his father wanted him to join", "he wanted to protect the king", "he had an argument with his father"],
+    "answer": "he had an argument with his father",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-016",
+    "question": "How much is the bounty on Asuma's head",
+    "options": ["25 million ryou", "35 million ryou", "45 million ryou", "55million ryou"],
+    "answer": "35 million ryou",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-017",
+    "question": "Who did Shikamaru fight in the second round of the chuunin exams",
+    "options": ["Dosu", "Temari", "Yorui", "kin"],
+    "answer": "kin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-018",
+    "question": "Who was the only member of Team 10 to win in the third round of the chuunin exams",
+    "options": ["Shikamaru", "Ino", "Chouji", "Shino"],
+    "answer": "Shikamaru",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-019",
+    "question": "What is the name of Gaara's tailed beast",
+    "options": ["Shukaku", "Shikaku", "Shakaku", "Shukaki"],
+    "answer": "Shukaku",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-020",
+    "question": "Which of Kisame's moves did Kakashi first use against him when they invaded Konoha during the chuunin exams",
+    "options": ["Water Dragon", "Suiton Suishoha", "Suiton Hahonryou", "Water Shark Missile"],
+    "answer": "Water Shark Missile",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-021",
+    "question": "Which of the sound four did Chouji face on Sasuke's rescue mission",
+    "options": ["Dosu", "Jiroubou", "Tayuya", "Sakon"],
+    "answer": "Jiroubou",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-022",
+    "question": "Which village is Kin from",
+    "options": ["Sound", "Leaf", "Sand", "Rain"],
+    "answer": "Sound",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-023",
+    "question": "Sora is the son of which twelve guardian ninja",
+    "options": ["Kazuma", "Chiruku", "Kitane", "Korune"],
+    "answer": "Kazuma",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-024",
+    "question": "What is the name of the jutsu that the ninja guardians wanted to use to destroy Konoha",
+    "options": ["Raiton Judgement", "Shockwave", "Limelight", "Tornado Storm"],
+    "answer": "Limelight",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-025",
+    "question": "Which of the following is not a member of the twelve ninja guardians",
+    "options": ["Chiruku", "Kazuma", "Kitane", "Korune"],
+    "answer": "Korune",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-026",
+    "question": "What is the name of the team the Hokage assembled to track and kill Akatsuki",
+    "options": ["Niju Shotai", "Elite Guardians", "Twelve Ninja Guardians", "Shishikubi"],
+    "answer": "Niju Shotai",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-027",
+    "question": "Which of the following is not one of the paths of Pain",
+    "options": ["Animal Path", "Asura Path", "Naraka Path", "Death Path"],
+    "answer": "Death Path",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-028",
+    "question": "Who is the jounin leader of Gaara, Temari and Kankurou",
+    "options": ["Baki", "Baku", "Baka", "Bako"],
+    "answer": "Baki",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-029",
+    "question": "What is the name of Kakashi's largest dog",
+    "options": ["Pitbull", "Bulldog", "Bull", "Biscuit"],
+    "answer": "Bull",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-030",
+    "question": "What is Chouji's father's name",
+    "options": ["Akimichi", "Chouza", "Chouba", "Chouja"],
+    "answer": "Chouza",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-031",
+    "question": "What is the name of Hiruzen's wife",
+    "options": ["Biwako", "Nara", "Hasane", "Kurana"],
+    "answer": "Biwako",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-032",
+    "question": "What is the name of Chojuro's sword",
+    "options": ["Akebino", "Hiramakarei", "Helmet splitter", "needle"],
+    "answer": "Hiramakarei",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-033",
+    "question": "Who is the lead monk of the fire temple and one of the twelve guardian ninjas",
+    "options": ["Chiriku", "Hidan", "Kagane", "kasami"],
+    "answer": "Chiriku",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-034",
+    "question": "What is the name of Elder Chiyo of the sand´s brother",
+    "options": ["Sanzu", "Ebizo", "Tani", "Chinzu"],
+    "answer": "Ebizo",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-035",
+    "question": "Which of the following is not a citizen of the Land of Water",
+    "options": ["Yamabuki", "Inari", "Akane", "Akaboshi"],
+    "answer": "Akaboshi",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-036",
+    "question": "What is the name of the move Chojuro used at the summit against Sasuke",
+    "options": ["Hiramakarei release", "Hiramakarei extend", "Hiramakarei destroy", "Hiramakarei shoha"],
+    "answer": "Hiramakarei release",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-037",
+    "question": "What is the name of the 7 tails beast",
+    "options": ["Fuu", "Chomei", "Son Goku", "Ukitake"],
+    "answer": "Chomei",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-038",
+    "question": "What is the name of the 7 tails Jinchuuriki",
+    "options": ["Fuu", "Chomei", "Son Goku", "Ukitake"],
+    "answer": "Fuu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-039",
+    "question": "Who is the real Tobi",
+    "options": ["Obito", "Madara", "Sasori", "Deidara"],
+    "answer": "Obito",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-040",
+    "question": "Who was Orochimaru's partner at Akatsuki",
+    "options": ["Itachi", "Sasori", "Hidan", "Kakuzu"],
+    "answer": "Sasori",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-041",
+    "question": "Which of the following is the name of Tsunade's lover",
+    "options": ["Dan", "Jiraiya", "Orochimaru", "San"],
+    "answer": "Dan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-042",
+    "question": "Who was the great leader of Amegakure",
+    "options": ["Danzou", "Hanzou", "Ohnoki", "Orochimaru"],
+    "answer": "Hanzou",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-043",
+    "question": "Who defeated the resurrected Hanzou during the ninja war",
+    "options": ["Mifune", "Guy", "Kakashi", "Gaara"],
+    "answer": "Mifune",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-044",
+    "question": "What is Hanzou's summoning",
+    "options": ["salamander", "Chameleon", "Elephant", "Tortoise"],
+    "answer": "salamander",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-045",
+    "question": "Who was the Uchiha clan leader during Hiruzen's time",
+    "options": ["Fugaku", "Madara", "Shisui", "Dara"],
+    "answer": "Fugaku",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-047",
+    "question": "What is the name of the revered frog village",
+    "options": ["Myoubuku", "Kotosan", "Amegakure", "Shotan"],
+    "answer": "Myoubuku",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-048",
+    "question": "Who was first nominated to be the sixth Hokage",
+    "options": ["Danzou", "Tsunade", "Shikaku", "Kakashi"],
+    "answer": "Kakashi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-049",
+    "question": "Which village were the assassins from that attacked Danzou as he prepared to leave for the Hokage summit",
+    "options": ["Land of Stone", "Land of Wood", "Land of Rain", "Land of Iron"],
+    "answer": "Land of Wood",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-050",
+    "question": "Who is the leader of the Land of Iron",
+    "options": ["Hanzou", "Mifune", "Akaboshi", "Ai"],
+    "answer": "Mifune",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-051",
+    "question": "What is the name of the mercenary organizations that wanted to capture tailed beasts",
+    "options": ["Akatsuki", "Akatsuka", "Niju Shotai", "Shishikubi"],
+    "answer": "Akatsuki",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-052",
+    "question": "Who was Naruto's first kiss",
+    "options": ["Sasuke", "Sakura", "Ino", "Hinata"],
+    "answer": "Sasuke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-053",
+    "question": "What is the name of Naruto's father",
+    "options": ["Minato", "Jiraiya", "Hiruzen", "Kakashi"],
+    "answer": "Minato",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-054",
+    "question": "What is Sakura's surname",
+    "options": ["Haruno", "Inamaka", "Haruna", "Nara"],
+    "answer": "Haruno",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-055",
+    "question": "Who was in possession of Shisui's eyesat the beginning.",
+    "options": ["Madara", "Sasuke", "Itachi", "Danzou"],
+    "answer": "Danzou",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-057",
+    "question": "What is the name of Danzou's summoning",
+    "options": ["Baki", "Baku", "Hagi", "Hisagi"],
+    "answer": "Baku",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-058",
+    "question": "What is the name of the seal Danzou used in a last ditch effort to kill both Sasuke and Madara",
+    "options": ["Reverse one point symbol", "Reverse two point seal", "Reverse three symbols seal", "Reverse four symbols seal"],
+    "answer": "Reverse four symbols seal",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-059",
+    "question": "Which of the following isn’t a user of Sanjou Rashomon",
+    "options": ["Orochimaru", "Hashirama", "Sound 4", "Kabuto"],
+    "answer": "Kabuto",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-060",
+    "question": "Who is the commander of the First Division during the shinobi world war",
+    "options": ["Kakashi", "Darui", "Gaara", "Raikage"],
+    "answer": "Darui",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-061",
+    "question": "What is the name of Naruto's special jounin instructor",
+    "options": ["Iruka", "Mizuki", "Ebisu", "Kakashi"],
+    "answer": "Ebisu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-062",
+    "question": "Who killed Deidara",
+    "options": ["Sasuke", "Madara", "Kakashi", "Gai"],
+    "answer": "Sasuke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-063",
+    "question": "Which Jinchuuriki did Deidara capture",
+    "options": ["Naruto", "Killerbee", "Fuu", "Gaara"],
+    "answer": "Gaara",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-064",
+    "question": "Who did Deidara lose his second arm to",
+    "options": ["Kakashi", "Gai", "Gaara", "Sasuke"],
+    "answer": "Kakashi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-065",
+    "question": "Which tailed beast were Tobi and Deidara sent to capture",
+    "options": ["Two tails", "Three tails", "Four tails", "Five tails"],
+    "answer": "Three tails",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-066",
+    "question": "Where did Sasuke learn the move that saved him from Itachi's Amaterasu",
+    "options": ["Kakashi", "Orochimaru", "Itachi", "Suigetsu"],
+    "answer": "Orochimaru",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-067",
+    "question": "Which of the following is not a member of Sasuke's group",
+    "options": ["Juugo", "Kirin", "Suigetsu", "Karin"],
+    "answer": "Kirin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-068",
+    "question": "What is the name of Sasuke's ultimate destructive lightning move",
+    "options": ["Kirin", "Chidori", "Chidori senbon", "Chidori nagashi"],
+    "answer": "Kirin",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-069",
+    "question": "Juugo joined Sasuke's group because",
+    "options": ["he believed in him", "he had nowhere else to go", "he reminded him of kimimaro", "he could stop his rage"],
+    "answer": "he reminded him of kimimaro",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-070",
+    "question": "What is the name of the ninja cat that lives at Uchiha supply base",
+    "options": ["Senka", "Henka", "Enka", "Denka"],
+    "answer": "Denka",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-071",
+    "question": "Who did Orochimaru order to kill Sasuke during the chuunin exams",
+    "options": ["Kabuto", "Kin", "Dosu", "Yorui"],
+    "answer": "Dosu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-072",
+    "question": "Which of the following isn’t a student of Killer Bee",
+    "options": ["Samui", "Omoi", "Karui", "Darui"],
+    "answer": "Darui",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-073",
+    "question": "Who killed the Fourth Kazekage",
+    "options": ["Pein", "Orochimaru", "Sasori", "Madara"],
+    "answer": "Orochimaru",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-074",
+    "question": "Fuu(Danzou´s guard) is a member of which clan",
+    "options": ["Yamanaka", "Nara", "Hyuuga", "Aburame"],
+    "answer": "Yamanaka",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-075",
+    "question": "Ensui(who fought Zabuza with Kakashi during the war) was a member of which clan",
+    "options": ["Yamanaka", "Nara", "Hyuuga", "Aburame"],
+    "answer": "Nara",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-076",
+    "question": "Who is the original wielder of Samehada",
+    "options": ["Kisame", "Zabuza", "Akebino", "Fuguki"],
+    "answer": "Fuguki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-077",
+    "question": "Who tried to teach Naruto how to use sage mode",
+    "options": ["Fukasaku", "Jiraiya", "Gamabunta", "Shima"],
+    "answer": "Fukasaku",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-078",
+    "question": "Which one of the following isn’t one of Jiraiya's toads",
+    "options": ["Gamabunta", "Gamaken", "Gamakun", "Gamakichi"],
+    "answer": "Gamakun",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-079",
+    "question": "What is the name of Fukasaku's(elder sage toad) wife",
+    "options": ["Shima", "Shimura", "Shi", "Shimu"],
+    "answer": "Shima",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-080",
+    "question": "Which of the six paths of Pain was sent by Jiraiya to Konoha for study",
+    "options": ["Animal path", "Asura Path", "Naraka Path", "Deva path"],
+    "answer": "Animal path",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-081",
+    "question": "Where was Naruto when Fukasaku summoned him on the orders of the great toad sage",
+    "options": ["Hokage's office", "training with Kakashi", "with Sakura", "Ichiraku Ramen"],
+    "answer": "Ichiraku Ramen",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-082",
+    "question": "The seven-tailed beast is a",
+    "options": ["monkey", "an ox", "beetle", "cat"],
+    "answer": "beetle",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-083",
+    "question": "What is the name of Gaara's uncle",
+    "options": ["Baki", "Yashamaru", "Yoshimaru", "Kankurou"],
+    "answer": "Yashamaru",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-084",
+    "question": "Who tried to kill Gaara when he was young",
+    "options": ["Yashamaru", "Yoshamaru", "his father", "Baki"],
+    "answer": "Yashamaru",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-085",
+    "question": "Which of the following is Gamabunta's kid",
+    "options": ["Gamakichi and Gamaken", "Gamatatsu and Gamaken", "Gamakichi and Gamatatsu", "Gamatatsu and Gamabun"],
+    "answer": "Gamakichi and Gamatatsu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-086",
+    "question": "What is the name of Tsunade's summon",
+    "options": ["Kaguya", "Kaguyu", "Katsuya", "Katsuyu"],
+    "answer": "Katsuyu",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-087",
+    "question": "What is Gamabunta's weapon of choice",
+    "options": ["a scythe", "a dagger", "a spear", "a shuriken"],
+    "answer": "a dagger",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-088",
+    "question": "Who did Naruto first summon when facing Gaara after the chuunin exams",
+    "options": ["Gamabunta", "Gamakichi", "Gamaken", "Gamatatsu"],
+    "answer": "Gamakichi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-089",
+    "question": "What is the name of Orochimaru's great snake",
+    "options": ["Manda", "Sanbi", "Habi", "Chimaru"],
+    "answer": "Manda",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-090",
+    "question": "Who summoned Manda for the last time before his death",
+    "options": ["Sasuke", "Kabuto", "Orochimaru", "Itachi"],
+    "answer": "Sasuke",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-091",
+    "question": "Which of the following is the clumsy frog/toad",
+    "options": ["Gamabunta", "Gamatatsu", "Gamakichi", "Gamaken"],
+    "answer": "Gamaken",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-092",
+    "question": "What is the name of Gamabunta's second son",
+    "options": ["Gamaken", "Gamakichi", "Gamatatsu", "Gamabun"],
+    "answer": "Gamatatsu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-093",
+    "question": "Who was the criminal that ultimately had Zabuza killed on the bridge",
+    "options": ["Hanori", "Yushimaru", "Gato", "Basu"],
+    "answer": "Gato",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-094",
+    "question": "What is the name of the bridge builder and Inari's grandfather",
+    "options": ["Hazuna", "Gato", "Tazuna", "Biku"],
+    "answer": "Tazuna",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-095",
+    "question": "What is the name of Zabuza's companion",
+    "options": ["Haku", "Haki", "Baku", "Baki"],
+    "answer": "Haku",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-096",
+    "question": "What is Haku's kekkei genkai",
+    "options": ["a tailed beast", "sharingan", "ice", "bones"],
+    "answer": "ice",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-097",
+    "question": "What is Kimimaro's kekkei genkai",
+    "options": ["a tailed beast", "sharingan", "ice", "bones"],
+    "answer": "bones",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-098",
+    "question": "Who is the examiner that took over for Hayate at the chuunin exams after he was killed",
+    "options": ["Genma", "Iruka", "Ebisu", "Gekko"],
+    "answer": "Genma",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-099",
+    "question": "Who killed the examiner Hayate at the chuunin exams",
+    "options": ["Garui", "Gaara", "Kabuto", "Baki"],
+    "answer": "Baki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-100",
+    "question": "What is the name of the toad that holds the key to Naruto's 8 trigam seal",
+    "options": ["Fukasaku", "Tora", "Asake", "Geratora"],
+    "answer": "Geratora",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-101",
+    "question": "Who is the person that Orochimaru had to use as a vessel prior to Sasuke's arrival",
+    "options": ["Guren", "Genyumaru", "Guki", "Kinaki"],
+    "answer": "Genyumaru",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-102",
+    "question": "Kinkaku and Ginkaku are from which village",
+    "options": ["Hidden leaf", "Hidden Rain", "Hidden stone", "Hidden cloud"],
+    "answer": "Hidden cloud",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-103",
+    "question": "Kinkaku and Ginkaku are known as the",
+    "options": ["Gold and Bronze brothers", "Silver and Gold brothers", "the deadly duo", "Gold brothers"],
+    "answer": "Silver and Gold brothers",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-104",
+    "question": "What is Guren's kekkei genkai",
+    "options": ["mirrors", "ice", "crystals", "diamonds"],
+    "answer": "crystals",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-105",
+    "question": "Who did Orochimaru task with capturing the three tails",
+    "options": ["Kabuto", "Guren", "the sound four", "Kimimaro"],
+    "answer": "Guren",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-106",
+    "question": "After Kimimaro's illness was discovered who was chosen to be Orochimaru's next vessel",
+    "options": ["Guren", "Kabuto", "Sasuke", "Juugo"],
+    "answer": "Guren",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-107",
+    "question": "What is the 8-tails ox's name",
+    "options": ["Killerbee", "Gyuki", "Ibuki", "Byuki"],
+    "answer": "Gyuki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-108",
+    "question": "Who is the Jinchuuriki of the five tails",
+    "options": ["Ukitaka", "Yugito", "Han", "Yagura"],
+    "answer": "Han",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-109",
+    "question": "What is the name of Kiba's elder sister",
+    "options": ["Hana", "Kin", "Yasha", "Maru"],
+    "answer": "Hana",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-110",
+    "question": "The Jinchuuriki of the five tails is from which village",
+    "options": ["Hidden leaf", "Hidden stone", "Hidden mist", "Hidden rain"],
+    "answer": "Hidden stone",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-111",
+    "question": "Where is Haku from",
+    "options": ["Land of stone", "Land of sound", "Land of rain", "Land of mist"],
+    "answer": "Land of mist",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-112",
+    "question": "What is Zabuza's surname",
+    "options": ["Demon", "Hochi", "Hozuki", "Momochi"],
+    "answer": "Momochi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-113",
+    "question": "Who is Neji's uncle as well as the leader of the Hyuga clan",
+    "options": ["Hiashi", "Hayashi", "Hyuga", "Hyoshi"],
+    "answer": "Hiashi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-114",
+    "question": "What is the name of Hashirama's Deep Forest Emergence technique",
+    "options": ["Mokuton no jutsu", "Hiraishin no jutsu", "Jukai Koutan", "Rashoumon"],
+    "answer": "Jukai Koutan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-115",
+    "question": "Which of the following Akatsuki members fought Hashirama",
+    "options": ["Hidan", "Kakuzu", "Pein", "Kisame"],
+    "answer": "Kakuzu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-116",
+    "question": "What is the name of the great monkey summoning of Hiruzen",
+    "options": ["Son Goku", "Enma", "Gamabunta", "Baku"],
+    "answer": "Enma",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-117",
+    "question": "What is the name of Hinata's younger sister",
+    "options": ["Kanabi", "Jinora", "Hayate", "Hanabi"],
+    "answer": "Hanabi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-118",
+    "question": "Who is Hinata's group leader",
+    "options": ["Asuma", "Ebisu", "Kurenai", "Gai"],
+    "answer": "Kurenai",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-119",
+    "question": "Which of the following is not a member of Hinata's team",
+    "options": ["Akamaru", "Shino", "Tenten", "Kiba"],
+    "answer": "Tenten",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-120",
+    "question": "Which of the following cannot use the First's jutsu",
+    "options": ["Madara", "Danzou", "Yamato", "Tobirama"],
+    "answer": "Tobirama",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-121",
+    "question": "Who tricked Naruto into stealing the forbidden scroll",
+    "options": ["Mizuki", "Kurama", "Tengumaru", "Iruka"],
+    "answer": "Mizuki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-122",
+    "question": "Who created the Hidden Sound Village",
+    "options": ["Pein", "Orochimaru", "Hayate", "Karate"],
+    "answer": "Orochimaru",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-123",
+    "question": "What is the first jutsu Hiruzen used in the fight against Orochimaru",
+    "options": ["Shuriken no jutsu", "Roof Tile Shuriken", "Doton Doryun Heki", "Earth Swamp"],
+    "answer": "Roof Tile Shuriken",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-124",
+    "question": "Hidan is Kakuzu’s partner because....",
+    "options": ["he loves killing as much as Kakuzu does", "they are compatible", "Hidan can't be killed", "they both loved money"],
+    "answer": "Hidan can't be killed",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-125",
+    "question": "Which god does Hidan serve",
+    "options": ["Akatsuki", "Jashin", "Huushi", "Bushido"],
+    "answer": "Jashin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-126",
+    "question": "What is Hidan's weapon of choice",
+    "options": ["a scythe", "a sword", "a spear", "a kunai"],
+    "answer": "a scythe",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-127",
+    "question": "Hidan and Kakuzu were tasked with capturing",
+    "options": ["two tails", "three tails", "four tails", "five tails"],
+    "answer": "two tails",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-128",
+    "question": "What was the first move Chouji used against Kakuzu",
+    "options": ["Baika no jutsu", "Nikudan Harisensha", "Rolling thunder", "Cannon Bolt"],
+    "answer": "Nikudan Harisensha",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-129",
+    "question": "What is the name of the two tails Jinchuuriki",
+    "options": ["Roshi", "Yagura", "Utakata", "Yugito"],
+    "answer": "Yugito",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-130",
+    "question": "How many hearts does Kakuzu have in total",
+    "options": ["4", "5", "6", "3"],
+    "answer": "5",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-131",
+    "question": "Who killed Kakuzu",
+    "options": ["Naruto", "Kakashi", "Shikamaru", "Asuma"],
+    "answer": "Naruto",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-132",
+    "question": "What does Hidan call his immortality technique",
+    "options": ["Reaper seal", "Jashin's revenge", "Jashin's curse", "Jashin's wrath"],
+    "answer": "Jashin's curse",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-133",
+    "question": "Who is Neji's father",
+    "options": ["Hyuga", "Hiashi", "Hizashi", "Hashi"],
+    "answer": "Hizashi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-134",
+    "question": "What is Ibiki's surname",
+    "options": ["Moreno", "Morino", "Yashamaru", "Yushimaru"],
+    "answer": "Morino",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-135",
+    "question": "Who is the head of Konoha´s Torture and Interrogation Unit",
+    "options": ["Ibiki", "Hayate", "Inoichi", "Pein"],
+    "answer": "Ibiki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-136",
+    "question": "What is the name of Hanzou's salamander",
+    "options": ["Ibuse", "Kin", "Sanzou", "Tengu"],
+    "answer": "Ibuse",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-137",
+    "question": "What is Ino's father's name",
+    "options": ["Ibiki", "Shikaku", "Inoichi", "Inozuki"],
+    "answer": "Inoichi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-138",
+    "question": "What is Ino's surname",
+    "options": ["Inoichi", "Yamanaka", "Nara", "Akimichi"],
+    "answer": "Yamanaka",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-139",
+    "question": "What is Chouji's surname",
+    "options": ["Nara", "Akimichi", "Akamachi", "Yamanaka"],
+    "answer": "Akimichi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-140",
+    "question": "What is the name of the three-tailed turtle bijuu",
+    "options": ["Gyuki", "Son Goku", "Chomei", "Isobu"],
+    "answer": "Isobu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-141",
+    "question": "What is the name of the three tails Jinchuuriki",
+    "options": ["Yugito", "Yagura", "Utakata", "Roshi"],
+    "answer": "Yagura",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-142",
+    "question": "Who captured Son Goku's Jinchuuriki",
+    "options": ["Itachi", "Kisame", "Deidara", "Sasori"],
+    "answer": "Kisame",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-143",
+    "question": "Who is Son Goku's Jinchuuriki",
+    "options": ["Roshi", "Yugito", "Yagura", "Utakata"],
+    "answer": "Roshi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-144",
+    "question": "Who willingly gave Madara his eyes when he started to go blind",
+    "options": ["Shisui", "Fugaku", "Izuna", "Kin"],
+    "answer": "Izuna",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-145",
+    "question": "Which village is the shinobi Jei (who was captured by Sasuke and Jugo) from",
+    "options": ["Hidden leaf", "Hidden cloud", "Hidden rain", "Hidden stone"],
+    "answer": "Hidden cloud",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-146",
+    "question": "Who is the wielder of Helmsplitter, the Bluntsword",
+    "options": ["Akebino", "Zabuza", "Kushimaru", "Jinpachi"],
+    "answer": "Akebino",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-147",
+    "question": "What is Kabuto's surname",
+    "options": ["Yakushi", "Morino", "Yashi", "Tusharu"],
+    "answer": "Yakushi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-148",
+    "question": "What is the name of Tsunade's little brother who died in the war",
+    "options": ["Dan", "Nawaki", "Hisake", "Torune"],
+    "answer": "Nawaki",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-149",
+    "question": "What is Minato's nickname",
+    "options": ["The Flash", "Yellow Flash", "Green Flash", "Red Flash"],
+    "answer": "Yellow Flash",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-150",
+    "question": "What is Minato's surname",
+    "options": ["Uzumaki", "Sarutobi", "Namikaze", "Yellow Flash"],
+    "answer": "Namikaze",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-151",
+    "question": "Who is Naruto's mother",
+    "options": ["Kushina", "Mito", "Saru", "Tosan"],
+    "answer": "Kushina",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-152",
+    "question": "Who is Naruto's godfather",
+    "options": ["Minato", "Jiraiya", "Kakashi", "Sarutobi"],
+    "answer": "Jiraiya",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-153",
+    "question": "Who is the spider-like user of the Sound Four",
+    "options": ["Sakon", "Tayuya", "Jirobou", "Kidoumaru"],
+    "answer": "Kidoumaru",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-154",
+    "question": "Who is the leader of the Second Division in the Great Ninja War",
+    "options": ["Kakashi", "Gaara", "Kitsuchi", "Gai"],
+    "answer": "Kitsuchi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-155",
+    "question": "What is the name of Sakura's father",
+    "options": ["Kizashi", "Haruno", "Hizashi", "Torun"],
+    "answer": "Kizashi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-156",
+    "question": "Who was the person who ate the forbidden fruit from the Divine Tree and the first person to have chakra in Naruto",
+    "options": ["Sage of the Six Paths", "Pein", "Madara", "Kaguya"],
+    "answer": "Kaguya",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-157",
+    "question": "What is Kakashi's nickname",
+    "options": ["Copy Cat", "Copy Ninja", "The flash", "Sharingan"],
+    "answer": "Copy Ninja",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-158",
+    "question": "What is Kakashi's father's name",
+    "options": ["Sakumo", "Hatake", "Hizashi", "Namikaze"],
+    "answer": "Sakumo",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-159",
+    "question": "What is Kakashi's father known as",
+    "options": ["Copy Ninja", "Konoha's White Fang", "Sannin", "Konoha´s Sage"],
+    "answer": "Konoha's White Fang",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-160",
+    "question": "At what age did Kakashi graduate from the academy",
+    "options": ["5", "6", "7", "9"],
+    "answer": "5",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-161",
+    "question": "At what age did Kakashi become a Chunin",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-162",
+    "question": "What is the name of the ninja that slashed Kakashi’s eye when he wanted to rescue Rin",
+    "options": ["Kakko", "Kakku", "Yashamaru", "Taiseke"],
+    "answer": "Taiseke",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-163",
+    "question": "What is Kurenai's surname",
+    "options": ["Yuuho", "Yuuhi", "Rinaru", "Rinari"],
+    "answer": "Yuuhi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-164",
+    "question": "What is the name of Kakashi's Mangekyou Sharingan move",
+    "options": ["Tsukiyomi", "Eternal Darkness", "Kamui", "Sharingan"],
+    "answer": "Kamui",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-165",
+    "question": "What was Yamato's Anbu name",
+    "options": ["Ao", "Henzou", "Tenzou", "Gyate"],
+    "answer": "Tenzou",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-166",
+    "question": "What is the name of the young boy Guren fought hard to protect",
+    "options": ["Yashamaru", "Yushimaru", "Yukimaru", "Tenzen"],
+    "answer": "Yukimaru",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-167",
+    "question": "Who does Naruto first use his finished Rasen Shuriken move on",
+    "options": ["Pein", "Hidan", "Kakuzu", "Yamato"],
+    "answer": "Kakuzu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-168",
+    "question": "Which Path of Pein did Kakashi first fight",
+    "options": ["Naraka path", "Deva Path", "God path", "Human Path"],
+    "answer": "Deva Path",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-169",
+    "question": "Kakashi was appointed as the leader of which division during the shinobi war",
+    "options": ["first", "second", "third", "fourth"],
+    "answer": "third",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-170",
+    "question": "How many jutsu has Kakashi supposedly copied",
+    "options": ["100", "1000", "10000", "100000"],
+    "answer": "1000",
+    "difficulty": "easy"
+  },
+  {
+    "id": "naruto-171",
+    "question": "What is the name of Gaara's mom",
+    "options": ["Kazuna", "Karura", "Yushimaru", "Tana"],
+    "answer": "Karura",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-172",
+    "question": "What is the name of Kankuro's defense puppet",
+    "options": ["Kuroari", "Crow", "Rashoumon", "Sanshuo"],
+    "answer": "Sanshuo",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-173",
+    "question": "What was the name of Sasuke's group after they joined Akatsuki",
+    "options": ["Hebi", "Rogue 4", "Taka", "Sabu"],
+    "answer": "Taka",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-174",
+    "question": "Which of the Sound 4 did Kiba fight",
+    "options": ["Sakon", "Jirobou", "Kidoumaru", "Tayuya"],
+    "answer": "Sakon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-175",
+    "question": "What is the name of Sakon's twin",
+    "options": ["Jirobou", "Ukon", "Tayuya", "Kidoumaru"],
+    "answer": "Ukon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-176",
+    "question": "Who came to Kiba's rescue during his fight against the Sound 4",
+    "options": ["Gaara", "Asuma", "Kankurou", "Temari"],
+    "answer": "Kankurou",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-177",
+    "question": "What’s the name of Killerbee's Enka master's raccoon",
+    "options": ["Ponta", "Sabumaru", "Kin", "Kinta"],
+    "answer": "Ponta",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-178",
+    "question": "Killerbee´s Enka master´s pet Ponta is a",
+    "options": ["bear", "salamander", "Shinobi of the leaf", "raccoon"],
+    "answer": "raccoon",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-179",
+    "question": "What is the name of the five-tailed dolphin horse",
+    "options": ["Kokuo", "Chomei", "Gyuki", "Shukaku"],
+    "answer": "Kokuo",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-180",
+    "question": "Who, as a child, asked Haku and Zabuza if they were from the Mist Village during their travels",
+    "options": ["Gato", "Kakashi", "Suigetsu", "Kimimaro"],
+    "answer": "Kimimaro",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-181",
+    "question": "Who killed Kisame",
+    "options": ["Gai", "Killerbee", "he killed himself", "Raikage"],
+    "answer": "he killed himself",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-182",
+    "question": "What is the name of the ninja dog with an eye patch from the Inuzuka clan",
+    "options": ["Bento", "Kushimaru", "Kuromaru", "Tani"],
+    "answer": "Kuromaru",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-183",
+    "question": "What is the name of Ohnoki's granddaughter",
+    "options": ["Kurotsuchi", "Akatsuchi", "Buchi", "Tana"],
+    "answer": "Kurotsuchi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-184",
+    "question": "Who is the wielder of Threading Needle, the Long Sword",
+    "options": ["Akebino", "Zabuza", "Kushimaru", "Pakura"],
+    "answer": "Kushimaru",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-185",
+    "question": "What is the name of the Fourth Raikage's secretary",
+    "options": ["Omoi", "Samui", "Mabui", "Darui"],
+    "answer": "Mabui",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-186",
+    "question": "What is Suigetsu's surname",
+    "options": ["Mangetsu", "Hozuki", "Hanara", "Suiton"],
+    "answer": "Hozuki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-187",
+    "question": "What is Suigetsu's brother's name",
+    "options": ["Mangetsu", "Hozuki", "Hanara", "Suiton"],
+    "answer": "Mangetsu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-188",
+    "question": "What is the name of the swordsman of the mist who is master of all seven blades",
+    "options": ["Mangetsu", "Kisame", "Kaguya", "Hotaru"],
+    "answer": "Mangetsu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-189",
+    "question": "What is the name of the two-tailed Bijuu",
+    "options": ["Kokuo", "Chomei", "Matatabi", "Son Goku"],
+    "answer": "Matatabi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-190",
+    "question": "What is the name of Sakura's mom",
+    "options": ["Mebuki", "Inara", "Soru", "Inaru"],
+    "answer": "Mebuki",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-191",
+    "question": "What is the name of the Kage of the Mist Village at the Kage summit",
+    "options": ["Ibuki", "Hotaru", "Somei", "Mei"],
+    "answer": "Mei",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-192",
+    "question": "What is the name of Itachi's mother",
+    "options": ["Mikoto", "Mebuki", "Mei", "Inaru"],
+    "answer": "Mikoto",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-193",
+    "question": "What is the name of Konohamaru's female ninja teammate",
+    "options": ["Udon", "Moegi", "Motoi", "Dono"],
+    "answer": "Moegi",
+    "difficulty": "expert"
+  },
+  {
+    "id": "naruto-194",
+    "question": "What is the name of Killerbee's childhood friend",
+    "options": ["Ei", "Sakari", "Omoi", "Motoi"],
+    "answer": "Motoi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-195",
+    "question": "What is the name of the Second Tsuchikage and Ohnoki's mentor",
+    "options": ["Mu", "Aoba", "Ai", "Roku"],
+    "answer": "Mu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-196",
+    "question": "Which of the following paths of Pein is responsible for summoning Outer Path for interrogation and restoration",
+    "options": ["Animal Path", "Deva Path", "Human Path", "Naraka Path"],
+    "answer": "Naraka Path",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-197",
+    "question": "What is the name of the facially scarred bodyguard of Mifune",
+    "options": ["Han", "Asane", "Kasami", "Okisuke"],
+    "answer": "Okisuke",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-198",
+    "question": "What is the name of the resurrected Sound ninja with a scorch release kekkei genkai",
+    "options": ["Hakuno", "Pakura", "Jinin", "Baku"],
+    "answer": "Pakura",
+    "difficulty": "hard"
+  },
+  {
+    "id": "naruto-199",
+    "question": "What is Rin's surname",
+    "options": ["Nohara", "Atari", "Hozuki", "Pakura"],
+    "answer": "Nohara",
+    "difficulty": "medium"
+  },
+  {
+    "id": "naruto-200",
+    "question": "What is the name of the six-tailed slug Bijuu",
+    "options": ["Chomei", "Matatabi", "Saiken", "Son Goku"],
+    "answer": "Saiken",
+    "difficulty": "hard"
+  }
+]
+
+
+
+
+
+
+
+

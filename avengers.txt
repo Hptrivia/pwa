@@ -1,0 +1,1779 @@
+[
+  {
+    "id": "mcu-0001",
+    "question": "What is the name of Thor’s sister?",
+    "options": ["Freya", "Hela", "Sif", "Frigga"],
+    "answer": "Hela",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["thor", "asgard"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Hela is revealed to be Thor’s sister and the goddess of death."
+  },
+  {
+    "id": "mcu-0002",
+    "question": "Who does Steve Rogers give his shield to at the end of Endgame?",
+    "options": ["Sam Wilson", "Nick Fury", "Clint Barton", "Bucky Barnes"],
+    "answer": "Sam Wilson",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["captain america", "endgame"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Steve Rogers passes on the mantle of Captain America to Sam Wilson."
+  },
+  {
+    "id": "mcu-0003",
+    "question": "Where is the Soul Stone located?",
+    "options": ["Vormir", "Knowhere", "Xandar", "Nidavellir"],
+    "answer": "Vormir",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["infinity stones"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "The Soul Stone is guarded by Red Skull on Vormir."
+  },
+  {
+    "id": "mcu-0004",
+    "question": "What year was the first Iron Man film released?",
+    "options": ["2006", "2008", "2009", "2010"],
+    "answer": "2008",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["iron man", "phase 1"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "Iron Man launched the MCU in 2008."
+  },
+  {
+    "id": "mcu-0005",
+    "question": "What alias does Natasha Romanoff use in Iron Man 2?",
+    "options": ["Natalie Rushman", "Natasha Belova", "Wanda Romanoff", "Jane Walters"],
+    "answer": "Natalie Rushman",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["black widow", "shield"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man 2 (2010)",
+    "explanation": "Natasha goes undercover using the alias Natalie Rushman."
+  },
+  {
+    "id": "mcu-0006",
+    "question": "What is the name of Thor’s new weapon forged in Infinity War?",
+    "options": ["Stormbreaker", "Oathkeeper", "Thunderstrike", "Lightningfang"],
+    "answer": "Stormbreaker",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Weapons",
+    "tags": ["thor", "infinity war"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Stormbreaker is the axe forged to replace Mjolnir."
+  },
+  {
+    "id": "mcu-0007",
+    "question": "What mineral powers Wakandan technology?",
+    "options": ["Terrigen", "Adamantium", "Unobtanium", "Vibranium"],
+    "answer": "Vibranium",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["wakanda", "black panther"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Black Panther (2018)",
+    "explanation": "Vibranium is a rare, powerful metal unique to Wakanda."
+  },
+  {
+    "id": "mcu-0008",
+    "question": "Which Infinity Stone is housed inside Vision’s forehead?",
+    "options": ["Mind Stone", "Reality Stone", "Time Stone", "Power Stone"],
+    "answer": "Mind Stone",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["vision", "infinity stones"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "Vision was created using the Mind Stone."
+  },
+  {
+    "id": "mcu-0009",
+    "question": "Who is the King of Wakanda before T’Challa?",
+    "options": ["T’Chaka", "T’Chika", "T’Chaku", "T’Chaki"],
+    "answer": "T’Chaka",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["black panther", "wakanda"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Black Panther (2018)",
+    "explanation": "T’Chaka, T’Challa’s father, was king before him."
+  },
+  {
+    "id": "mcu-0010",
+    "question": "Who leads the Black Order in service of Thanos?",
+    "options": ["Corvus Glaive", "Ebony Maw", "Proxima Midnight", "Cull Obsidian"],
+    "answer": "Corvus Glaive",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["black order", "thanos"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Corvus Glaive is the field leader of the Black Order."
+  },
+  {
+    "id": "mcu-0011",
+    "question": "What is the real name of the Red Skull?",
+    "options": ["Erik Lensherr", "Johann Schmidt", "Alexander Pierce", "Arnim Zola"],
+    "answer": "Johann Schmidt",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["hydra", "captain america"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain America: The First Avenger (2011)",
+    "explanation": "Red Skull's true identity is Johann Schmidt, leader of HYDRA."
+  },
+  {
+    "id": "mcu-0012",
+    "question": "Who is Peter Parker’s main enemy in Spider-Man: Homecoming?",
+    "options": ["Vulture", "Mysterio", "Rhino", "Shocker"],
+    "answer": "Vulture",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["spider-man"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Spider-Man: Homecoming (2017)",
+    "explanation": "Adrian Toomes becomes the Vulture, stealing alien tech to sell illegally."
+  },
+  {
+    "id": "mcu-0013",
+    "question": "What AI does Tony Stark install after J.A.R.V.I.S. becomes Vision?",
+    "options": ["F.R.I.D.A.Y.", "KAREN", "E.D.I.T.H.", "H.O.M.E.R."],
+    "answer": "F.R.I.D.A.Y.",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["iron man", "ai"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "F.R.I.D.A.Y. replaces J.A.R.V.I.S. as Tony’s suit AI."
+  },
+  {
+    "id": "mcu-0014",
+    "question": "What is the name of the dimension where Dormammu resides?",
+    "options": ["Dark Dimension", "Quantum Realm", "Astral Plane", "Shadow Realm"],
+    "answer": "Dark Dimension",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Locations",
+    "tags": ["doctor strange", "magic"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Doctor Strange (2016)",
+    "explanation": "Dormammu rules the timeless Dark Dimension."
+  },
+  {
+    "id": "mcu-0015",
+    "question": "Who kills King T’Chaka in Captain America: Civil War?",
+    "options": ["Helmut Zemo", "Winter Soldier", "Arnim Zola", "Johan Schmidt"],
+    "answer": "Helmut Zemo",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["black panther", "civil war"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain America: Civil War (2016)",
+    "explanation": "Zemo frames Bucky Barnes for the bombing that kills T’Chaka."
+  },
+  {
+    "id": "mcu-0016",
+    "question": "What are the first four words in the phrase that activates the Winter Soldier’s programming?",
+    "options": ["Longing, rusted, seventeen, daybreak.", "Longing, seventeen, furnace, winter.", "Longing, daybreak, cold wind, river.", "Longing, winter, steel dawn, fractured."],
+    "answer": "Longing, rusted, seventeen, daybreak.",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Mind Control",
+    "tags": ["bucky", "hydra"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain America: Civil War (2016)",
+    "explanation": "A HYDRA code sequence triggers Bucky's Winter Soldier conditioning."
+  },
+  {
+    "id": "mcu-0017",
+    "question": "What is the name of the prison in Guardians of the Galaxy?",
+    "options": ["Kyln", "The Raft", "Nova Base", "Graveyard"],
+    "answer": "Kyln",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Locations",
+    "tags": ["guardians", "space"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "The Kyln is a high-security intergalactic prison."
+  },
+  {
+    "id": "mcu-0018",
+    "question": "Who is Gamora’s sister?",
+    "options": ["Nebula", "Proxima", "Ayesha", "Hela"],
+    "answer": "Nebula",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["guardians", "thanos"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy Vol. 2 (2017)",
+    "explanation": "Nebula is Thanos’s adopted daughter and Gamora’s sister."
+  },
+  {
+    "id": "mcu-0019",
+    "question": "What is Tony Stark’s daughter’s name?",
+    "options": ["Morgan", "Hope", "Veronica", "Pepper"],
+    "answer": "Morgan",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Family",
+    "tags": ["iron man", "endgame"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Tony and Pepper name their daughter Morgan Stark."
+  },
+  {
+    "id": "mcu-0020",
+    "question": "What is the name of Drax’s species?",
+    "options": ["Kylosian", "Xandarian", "Sakaaran", "Terran"],
+    "answer": "Kylosian",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Species",
+    "tags": ["guardians", "aliens"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Drax is a Kylosian warrior who seeks vengeance for his family."
+  },
+  {
+    "id": "mcu-0021",
+    "question": "Which Avenger is originally from Sokovia?",
+    "options": ["Scarlet Witch", "Vision", "Falcon", "Black Widow"],
+    "answer": "Scarlet Witch",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["scarlet witch", "sokovia"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "Wanda Maximoff, aka Scarlet Witch, hails from the fictional country of Sokovia."
+  },
+  {
+    "id": "mcu-0022",
+    "question": "What is the name of Tony Stark’s company?",
+    "options": ["Stark Industries", "Stark Tech", "Stark Enterprises", "Iron Core"],
+    "answer": "Stark Industries",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Organizations",
+    "tags": ["iron man", "company"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "Stark Industries is founded by Howard Stark and inherited by Tony Stark."
+  },
+  {
+    "id": "mcu-0023",
+    "question": "What is the real name of Hawkeye?",
+    "options": ["Clint Barton", "Scott Lang", "Phil Coulson", "Brock Rumlow"],
+    "answer": "Clint Barton",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["hawkeye", "shield"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor (2011)",
+    "explanation": "Clint Barton, codename Hawkeye, is a master archer and former S.H.I.E.L.D. agent."
+  },
+  {
+    "id": "mcu-0024",
+    "question": "Who is the ruler of Asgard at the end of Thor: Ragnarok?",
+    "options": ["Thor", "Loki", "Odin", "Heimdall"],
+    "answer": "Thor",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["thor", "asgard"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Thor takes on the role of king after Odin's death and Asgard’s fall."
+  },
+  {
+    "id": "mcu-0025",
+    "question": "What color is the Reality Stone?",
+    "options": ["Red", "Green", "Purple", "Yellow"],
+    "answer": "Red",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["infinity stones", "ether"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: The Dark World (2013)",
+    "explanation": "The Reality Stone, or Aether, is a red fluid-like substance."
+  },
+  {
+    "id": "mcu-0026",
+    "question": "Which Avenger was brainwashed by Loki?",
+    "options": ["Hawkeye", "Black Widow", "Captain America", "Falcon"],
+    "answer": "Hawkeye",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Mind Control",
+    "tags": ["avengers", "loki"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "The Avengers (2012)",
+    "explanation": "Loki uses the Mind Stone to turn Hawkeye into his agent."
+  },
+  {
+    "id": "mcu-0027",
+    "question": "What is the name of Peter Quill’s mother?",
+    "options": ["Meredith", "Elaine", "Carol", "Alyssa"],
+    "answer": "Meredith",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Family",
+    "tags": ["guardians", "peter quill"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Meredith Quill dies of cancer shortly before Peter is taken into space."
+  },
+  {
+    "id": "mcu-0028",
+    "question": "What is Doctor Strange’s profession before becoming a sorcerer?",
+    "options": ["Neurosurgeon", "Cardiologist", "Engineer", "Psychiatrist"],
+    "answer": "Neurosurgeon",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Career",
+    "tags": ["doctor strange", "origin"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Doctor Strange (2016)",
+    "explanation": "Stephen Strange is a world-renowned but arrogant neurosurgeon."
+  },
+  {
+    "id": "mcu-0029",
+    "question": "What is the codename of Natasha Romanoff?",
+    "options": ["Black Widow", "Red Widow", "Agent Scarlet", "Widowmaker"],
+    "answer": "Black Widow",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["natasha", "avengers"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man 2 (2010)",
+    "explanation": "Black Widow is the codename used by Natasha Romanoff, a former Russian spy."
+  },
+  {
+    "id": "mcu-0030",
+    "question": "What’s the name of Tony Stark’s AI system introduced in Spider-Man: Far From Home?",
+    "options": ["E.D.I.T.H.", "F.R.I.D.A.Y.", "KAREN", "J.A.R.V.I.S."],
+    "answer": "E.D.I.T.H.",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["iron man", "spider-man"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Spider-Man: Far From Home (2019)",
+    "explanation": "E.D.I.T.H. stands for 'Even Dead, I’m The Hero', gifted by Tony to Peter."
+  },
+  {
+    "id": "mcu-0031",
+    "question": "Who created Ultron in the MCU?",
+    "options": ["Tony Stark and Bruce Banner", "Tony Stark and Hank Pym", "Tony Stark and J.A.R.V.I.S", "Tony and Howard Stark"],
+    "answer": "Tony Stark and Bruce Banner",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["ultron", "avengers"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "Tony and Bruce create Ultron from alien tech in an attempt to protect Earth."
+  },
+  {
+    "id": "mcu-0032",
+    "question": "Which character becomes the Abomination?",
+    "options": ["Emil Blonsky", "Erik Selvig", "Samuel Sterns", "Aldrich Killian"],
+    "answer": "Emil Blonsky",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["hulk", "incredible hulk"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "The Incredible Hulk (2008)",
+    "explanation": "Blonsky mutates into the Abomination after taking a serum."
+  },
+  {
+    "id": "mcu-0033",
+    "question": "What is the name of Star-Lord’s ship?",
+    "options": ["Milano", "Benatar", "Dark Aster", "Ravager"],
+    "answer": "Milano",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Vehicles",
+    "tags": ["guardians", "star-lord"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Peter Quill names his ship 'Milano' after actress Alyssa Milano."
+  },
+  {
+    "id": "mcu-0034",
+    "question": "Which character uses the alias Ronin?",
+    "options": ["Clint Barton", "Steve Rogers", "T’Challa", "Bucky Barnes"],
+    "answer": "Clint Barton",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["hawkeye", "ronin"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "After losing his family, Clint becomes a ruthless vigilante known as Ronin."
+  },
+  {
+    "id": "mcu-0036",
+    "question": "What is the Collector’s real name?",
+    "options": ["Taneleer Tivan", "Eson the Searcher", "Xandar Valt", "Korath"],
+    "answer": "Taneleer Tivan",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["collector", "guardians"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "The Collector, one of the Elders of the Universe, is Taneleer Tivan."
+  },
+  {
+    "id": "mcu-0038",
+    "question": "Who destroys Vision’s body to keep the Mind Stone from Thanos?",
+    "options": ["Scarlet Witch", "Iron Man", "Thor", "Captain America"],
+    "answer": "Scarlet Witch",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Sacrifice",
+    "tags": ["vision", "wanda"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Wanda destroys the Mind Stone and Vision to stop Thanos."
+  },
+  {
+    "id": "mcu-0039",
+    "question": "What’s the name of Tony Stark’s space satellite system designed to stop the Hulk?",
+    "options": ["Veronica", "E.D.I.T.H.", "Betty", "Hammernet"],
+    "answer": "Veronica",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["iron man", "armor"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "Veronica deploys the Hulkbuster armor from orbit."
+  },
+  {
+    "id": "mcu-0040",
+    "question": "Who temporarily lifts Mjolnir in Avengers: Endgame?",
+    "options": ["Captain America", "Iron Man", "Hulk", "Loki"],
+    "answer": "Captain America",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Weapons",
+    "tags": ["thor", "mjolnir"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Cap proves himself worthy and wields Mjolnir against Thanos."
+  },
+  {
+    "id": "mcu-0061",
+    "question": "What planet is the Power Stone hidden on at the start of Guardians of the Galaxy?",
+    "options": ["Xandar", "Morag", "Vormir", "Knowhere"],
+    "answer": "Morag",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["guardians", "infinity stones"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Peter Quill retrieves the Power Stone from Morag early in the film."
+  },
+  {
+    "id": "mcu-0062",
+    "question": "What is the name of the magical book Kaecilius steals pages from?",
+    "options": ["The Book of Cagliostro", "Darkhold", "Codex Mystica", "The Book of Vishanti"],
+    "answer": "The Book of Cagliostro",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Magic",
+    "tags": ["doctor strange", "kaecilius"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Doctor Strange (2016)",
+    "explanation": "Kaecilius steals pages from this book to summon Dormammu."
+  },
+  {
+    "id": "mcu-0064",
+    "question": "What name does Wanda go by during most of the Infinity Saga?",
+    "options": ["Red Queen", "Scarlet Witch", "Wanda Kruff", "Wanda Maximoff"],
+    "answer": "Wanda Maximoff",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["wanda", "scarlet witch"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Age of Ultron (2015)",
+    "explanation": "She is known by her real name until officially called Scarlet Witch in WandaVision."
+  },
+  {
+    "id": "mcu-0065",
+    "question": "Which character was a Hydra agent in disguise in S.H.I.E.L.D.?",
+    "options": ["Alexander Pierce", "Helmut Zemo", "Brock Rumlow", "Arnim Zola"],
+    "answer": "Alexander Pierce",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Villains",
+    "tags": ["hydra", "winter soldier"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain America: The Winter Soldier (2014)",
+    "explanation": "Pierce was secretly Hydra while posing as a high-ranking S.H.I.E.L.D. official."
+  },
+  {
+    "id": "mcu-0066",
+    "question": "What kind of alien is Goose in Captain Marvel?",
+    "options": ["Kree", "Skrull", "Flerken", "Celestial"],
+    "answer": "Flerken",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Species",
+    "tags": ["captain marvel", "goose"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain Marvel (2019)",
+    "explanation": "Goose appears to be a cat but is actually a Flerken with tentacle powers."
+  },
+  {
+    "id": "mcu-0067",
+    "question": "Who first wields the Nano Gauntlet in Endgame?",
+    "options": ["Hulk", "Captain Marvel", "Iron Man", "Thor"],
+    "answer": "Hulk",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["endgame", "infinity gauntlet"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Due to his gamma radiation resistance, Hulk is chosen to snap."
+  },
+  {
+    "id": "mcu-0068",
+    "question": "What is the name of the Asgardian executioner with two M16 rifles?",
+    "options": ["Des", "Volstagg", "Fandral", "Skurge"],
+    "answer": "Skurge",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["asgard", "ragnarok"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Skurge takes up arms against Hela with dual M16s named 'Des' and 'Troy'."
+  },
+  {
+    "id": "mcu-0069",
+    "question": "What species is Ronan the Accuser?",
+    "options": ["Kree", "Titanian", "Skrull", "Xandarian"],
+    "answer": "Kree",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Species",
+    "tags": ["ronan", "guardians"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Ronan is a radical Kree zealot who defies his leaders."
+  },
+  {
+    "id": "mcu-0070",
+    "question": "What is the name of Ant-Man’s ex-wife?",
+    "options": ["Cassie", "Hope", "Janet", "Maggie"],
+    "answer": "Maggie",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Family",
+    "tags": ["ant-man"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Ant-Man (2015)",
+    "explanation": "Maggie is the mother of Cassie Lang and Scott’s ex-wife."
+  },
+  {
+    "id": "mcu-0071",
+    "question": "Who plays Grandmaster in Thor: Ragnarok?",
+    "options": ["Sam Rockwell", "Benicio del Toro", "Bradley Cooper", "Jeff Goldblum"],
+    "answer": "Jeff Goldblum",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Casting",
+    "tags": ["thor", "ragnarok"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Goldblum plays the quirky ruler of Sakaar known as the Grandmaster."
+  },
+  {
+    "id": "mcu-0072",
+    "question": "What is the name of Star-Lord’s father?",
+    "options": ["Yondu", "Tivan", "Ego", "Arishem"],
+    "answer": "Ego",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Family",
+    "tags": ["guardians", "celestial"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy Vol. 2 (2017)",
+    "explanation": "Ego is a Celestial and Peter Quill’s biological father."
+  },
+  {
+    "id": "mcu-0073",
+    "question": "What is Thanos’s home planet?",
+    "options": ["Titan", "Xandar", "Vormir", "Sakaar"],
+    "answer": "Titan",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Locations",
+    "tags": ["thanos", "infinity war"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Titan is Thanos’s devastated home world."
+  },
+  {
+    "id": "mcu-0074",
+    "question": "Which character was one of the victims of Thanos´s snap?",
+    "options": ["Rocket", "Doctor Strange", "Nebula", "War Machine"],
+    "answer": "Doctor Strange",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Blip",
+    "tags": ["snap", "endgame"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Strange disappears after giving up the Time Stone."
+  },
+  {
+    "id": "mcu-0080",
+    "question": "Who gets stabbed through the back by Thanos on Titan?",
+    "options": ["Tony Stark", "Star-Lord", "Doctor Strange", "Spider-Man"],
+    "answer": "Tony Stark",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Battles",
+    "tags": ["infinity war", "titan"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Thanos nearly kills Tony before Strange gives up the Time Stone."
+  },
+  {
+    "id": "mcu-0081",
+    "question": "What food does Tony Stark request after escaping captivity?",
+    "options": ["Pizza", "Donuts", "Shawarma", "Cheeseburger"],
+    "answer": "Cheeseburger",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Quotes",
+    "tags": ["iron man", "tech"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "Tony Stark famously asks for a cheeseburger after his rescue — a callback in Endgame."
+  },
+  {
+    "id": "mcu-0082",
+    "question": "Which Avenger said, 'That’s America’s ass'?",
+    "options": ["Ant-Man", "Iron Man", "Hawkeye", "Spider-Man"],
+    "answer": "Ant-Man",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Quotes",
+    "tags": ["avengers", "endgame"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Scott Lang (Ant-Man) says this while admiring Cap’s suit during the time heist."
+  },
+  {
+    "id": "mcu-0083",
+    "question": "What is the name of the realm where Hela is imprisoned?",
+    "options": ["Hel", "Nidavellir", "Vanaheim", "Svartalfheim"],
+    "answer": "Hel",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Locations",
+    "tags": ["thor", "hela"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Hela is imprisoned in Hel, a realm associated with the dead in Norse myth."
+  },
+  {
+    "id": "mcu-0086",
+    "question": "Which planet does Odin die on?",
+    "options": ["Sakaar", "Asgard", "Earth", "Vanaheim"],
+    "answer": "Earth",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["thor", "odin"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: Ragnarok (2017)",
+    "explanation": "Odin dies peacefully on Earth, in Norway, where he reveals Hela’s return."
+  },
+  {
+    "id": "mcu-0087",
+    "question": "Who does Rocket partner with during the Time Heist?",
+    "options": ["Groot", "Iron Man", "Thor", "Nebula"],
+    "answer": "Thor",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Teams",
+    "tags": ["endgame", "thor", "rocket"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Rocket and Thor go to Asgard during the time heist to retrieve the Reality Stone."
+  },
+  {
+    "id": "mcu-0090",
+    "question": "Which Avenger appears first in Infinity War?",
+    "options": ["Iron Man", "Hulk", "Thor", "Doctor Strange"],
+    "answer": "Hulk",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["hulk", "infinity war"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Infinity War (2018)",
+    "explanation": "Hulk crashes into the Sanctum Sanctorum, warning of Thanos."
+  },
+  {
+    "id": "mcu-0092",
+    "question": "What is the name of Clint Barton's daughter?",
+    "options": ["Kate", "Laura", "Lila", "Cassie"],
+    "answer": "Lila",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Family",
+    "tags": ["hawkeye", "family"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Lila Barton appears in the opening scene of Endgame before the snap."
+  },
+  {
+    "id": "mcu-0093",
+    "question": "What is the name of Thor's mother?",
+    "options": ["Freya", "Frigga", "Astrid", "Sigrid"],
+    "answer": "Frigga",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Family",
+    "tags": ["thor", "asgard"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Thor: The Dark World (2013)",
+    "explanation": "Frigga is Thor’s mother and a powerful sorceress."
+  },
+  {
+    "id": "mcu-0096",
+    "question": "What device powers the Iron Man suits?",
+    "options": ["Tesseract", "Arc Reactor", "Fusion Core", "Vibranium Engine"],
+    "answer": "Arc Reactor",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Technology",
+    "tags": ["iron man", "tech"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "The Arc Reactor keeps Tony alive and powers the suits."
+  },
+  {
+    "id": "mcu-0097",
+    "question": "What is the name of Star-Lord’s mixtape?",
+    "options": ["Retro Tape", "Awesome Mix Vol. 1", "Mesmerizing Mix Vol. 3", "Amazing Mix Vol 2"],
+    "answer": "Awesome Mix Vol. 1",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Music",
+    "tags": ["guardians", "star-lord"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Peter Quill treasures the Awesome Mix tape left by his mother."
+  },
+  {
+    "id": "mcu-0098",
+    "question": "Who is the adopted daughter of Thanos?",
+    "options": ["Nebula", "Gamora", "Ayesha", "Proxima Midnight"],
+    "answer": "Gamora",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["guardians", "thanos"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Gamora is raised and trained by Thanos to be a warrior."
+  },
+  {
+    "id": "mcu-0100",
+    "question": "Who leads the Dora Milaje in Black Panther 1?",
+    "options": ["Okoye", "Shuri", "Ramonda", "Ayo"],
+    "answer": "Okoye",
+    "difficulty": "easy",
+    "score": 1,
+    "category": "Organizations",
+    "tags": ["black panther", "wakanda"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Black Panther (2018)",
+    "explanation": "Okoye is the general of Wakanda’s elite female guard, the Dora Milaje."
+  },
+  {
+    "id": "mcu-0104",
+    "question": "Where is the prison known as the Raft located?",
+    "options": ["New York Harbor", "Atlantic Ocean", "Arctic Base", "Under Wakanda"],
+    "answer": "Atlantic Ocean",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Organizations",
+    "tags": ["civil war"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Captain America: Civil War (2016)",
+    "explanation": "The Raft is a secure ocean-based facility for enhanced individuals."
+  },
+  {
+    "id": "mcu-0106",
+    "question": "What year does Cap return to to live with Peggy?",
+    "options": ["1945", "1955", "1939", "1949"],
+    "answer": "1949",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Timeline",
+    "tags": ["captain america", "peggy carter"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Avengers: Endgame (2019)",
+    "explanation": "Cap returns to 1949 to live out a life with Peggy Carter."
+  },
+  {
+    "id": "mcu-0108",
+    "question": "What is the name of the ancient spellbook used by Strange?",
+    "options": ["Book of Avalon", "Chronicles of the Cosmos", "Eternal Codex", "Book of Vishanti"],
+    "answer": "Book of Vishanti",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Magic",
+    "tags": ["doctor strange"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Doctor Strange (2016)",
+    "explanation": "The Book of Vishanti holds spells of protection and healing."
+  },
+  {
+    "id": "mcu-0109",
+    "question": "Who is Tony Stark’s best friend and military liaison?",
+    "options": ["Happy Hogan", "Phil Coulson", "Pepper Potts", "James Rhodes"],
+    "answer": "James Rhodes",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Characters",
+    "tags": ["iron man", "war machine"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "Rhodey becomes War Machine and remains Tony’s close ally."
+  },
+  {
+    "id": "mcu-0112",
+    "question": "Who voices Rocket Raccoon?",
+    "options": ["Vin Diesel", "Bradley Cooper", "Chris Pratt", "Seth Green"],
+    "answer": "Bradley Cooper",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Casting",
+    "tags": ["guardians", "rocket"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Guardians of the Galaxy (2014)",
+    "explanation": "Bradley Cooper provides Rocket’s voice in the Guardians series."
+  },
+  {
+    "id": "mcu-0113",
+    "question": "What shape is the Time Stone’s housing in Strange’s amulet?",
+    "options": ["Eye", "Cube", "Sphere", "Star"],
+    "answer": "Eye",
+    "difficulty": "medium",
+    "score": 1,
+    "category": "Artifacts",
+    "tags": ["time stone", "doctor strange"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Doctor Strange (2016)",
+    "explanation": "The Eye of Agamotto is a mystical relic holding the Time Stone."
+  },
+  {
+    "id": "mcu-0115",
+    "question": "Where does Natasha first find Bruce Banner?",
+    "options": ["Russia", "Nepal", "India", "Bhutan"],
+    "answer": "India",
+    "difficulty": "hard",
+    "score": 1,
+    "category": "Backstory",
+    "tags": ["hulk", "natasha"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "The Avengers (2012)",
+    "explanation": "Natasha tracks Banner to India, where he’s working as a doctor."
+  },
+  {
+    "id": "mcu-0117",
+    "question": "Who built the first Iron Man suit with Tony?",
+    "options": ["Yinsen", "Bakaar", "Gumi", "Raza"],
+    "answer": "Yinsen",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Backstory",
+    "tags": ["iron man", "origin"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Iron Man (2008)",
+    "explanation": "Yinsen saved Tony and co-designed the first Iron Man suit in the cave."
+  },
+  {
+    "id": "mcu-0157",
+    "question": "Where do Wanda and Vision hide out in *Infinity War*?",
+    "options": ["London", "Scotland", "France", "Germany"],
+    "answer": "Scotland",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0188",
+    "question": "What item is hidden inside the Tesseract?",
+    "options": ["Reality Stone", "Power Stone", "Space Stone", "Mind Stone"],
+    "answer": "Space Stone",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0193",
+    "question": "Which relic does Doctor Strange use to trap Dormammu?",
+    "options": ["Eye of Agamotto", "Cloak of Levitation", "Eye of Azaroth", "Eye of Vishanti"],
+    "answer": "Eye of Agamotto",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0178",
+    "question": "What material is used to forge Stormbreaker?",
+    "options": ["Uru", "Vibranium", "Celestial Ore", "Neutronium"],
+    "answer": "Uru",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0167",
+    "question": "Which of these stones did Thanos get first?",
+    "options": ["Power Stone", "Time Stone", "Mind Stone", "Reality Stone"],
+    "answer": "Power Stone",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0168",
+    "question": "What year was Captain America frozen in ice?",
+    "options": ["1943", "1942", "1945", "1944"],
+    "answer": "1945",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0195",
+    "question": "Who created the Super Soldier Serum?",
+    "options": ["Dr. Erskine", "Dr Stark", "Dr Pierce", "Dr Zola"],
+    "answer": "Dr. Erskine",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0181",
+    "question": "Which organization does Everett Ross work for?",
+    "options": ["CIA", "FBI", "S.H.I.E.L.D.", "NATO"],
+    "answer": "CIA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0151",
+    "question": "Who is Peter Parker's best friend in high school?",
+    "options": ["Ned", "Flash", "Harry", "MJ"],
+    "answer": "Ned",
+    "difficulty": "easy"
+  },
+  {
+    "id": "hulk-912",
+    "question": "Which scientist assists Bruce Banner in 'The Incredible Hulk'?",
+    "options": ["Samuel Sterns", "Reed Bartels", "Mark Weimer", "Hank Pym"],
+    "answer": "Samuel Sterns",
+    "difficulty": "hard"
+  },
+  {
+    "id": "hulk-916",
+    "question": "Which actor provided the voice of the Hulk in 'The Incredible Hulk' (2008)?",
+    "options": ["Lou Ferrigno", "Edward Norton", "Eric Bana", "Mark Ruffalo"],
+    "answer": "Lou Ferrigno",
+    "difficulty": "hard"
+  },
+  {
+    "id": "hulk-020",
+    "question": "Which year was 'The Incredible Hulk' released?",
+    "options": ["2008", "2005", "2003", "2010"],
+    "answer": "2008",
+    "difficulty": "hard"
+  },
+  {
+    "id": "hulk-020",
+    "question": "Which year was Antman released?",
+    "options": ["2010", "2012", "2014", "2015"],
+    "answer": "2015",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0274",
+    "question": "Where was the Collector’s museum located?",
+    "options": ["Xandar", "Vormir", "Knowhere", "Sakaar"],
+    "answer": "Knowhere",
+    "difficulty": "medium"
+  },
+  {
+    "id": "antman-1004",
+    "question": "Which company does Scott Lang work for after being released from prison?",
+    "options": ["Baskin-Robbins", "Starbucks", "McDonald's", "Subway"],
+    "answer": "Baskin-Robbins",
+    "difficulty": "hard"
+  },
+  {
+    "id": "antman-2006",
+    "question": "What is the name of the villain in the first 'Ant-Man' film?",
+    "options": ["Yellowjacket", "Ghost", "Kang", "Vulture"],
+    "answer": "Yellowjacket",
+    "difficulty": "medium"
+  },
+  {
+    "id": "antman-1007",
+    "question": "Which actress plays Hope van Dyne?",
+    "options": ["Evangeline Lilly", "Brie Larson", "Scarlett Johansson", "Natalie Portman"],
+    "answer": "Evangeline Lilly",
+    "difficulty": "easy"
+  },
+  {
+    "id": "antman-1008",
+    "question": "In 'Ant-Man and the Wasp', who is the main antagonist?",
+    "options": ["Ghost", "Sonny Burch", "Yellowjacket", "Kang"],
+    "answer": "Ghost",
+    "difficulty": "medium"
+  },
+  {
+    "id": "antman-1010",
+    "question": "Who is Janet van Dyne?",
+    "options": ["Hope's mother", "Scott's ex-wife", "Cassie's teacher", "Hank's assistant"],
+    "answer": "Hope's mother",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0474",
+    "question": "In Black Panther, Zuri was the son of ?",
+    "options": ["Njobu", "Badu", "T´Chaka", "Shura"],
+    "answer": "Badu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "antman-1012",
+    "question": "What is the name of Scott Lang's memoir in 'Quantumania'?",
+    "options": ["Look Out for the Little Guy", "Ant-Man's Adventures", "Quantum Chronicles", "Tiny Tales"],
+    "answer": "Look Out for the Little Guy",
+    "difficulty": "hard"
+  },
+  {
+    "id": "antman-1011",
+    "question": "Which actor plays Hank Pym?",
+    "options": ["Michael Douglas", "Anthony Hopkins", "Robert Redford", "Jeff Bridges"],
+    "answer": "Michael Douglas",
+    "difficulty": "easy"
+  },
+  {
+    "id": "antman-0017",
+    "question": "Who directed all three Ant-Man films?",
+    "options": ["Peyton Reed", "James Gunn", "Jon Watts", "Taika Waititi"],
+    "answer": "Peyton Reed",
+    "difficulty": "medium"
+  },
+
+  {
+    "id": "mcu-0374",
+    "question": "In Captain America Civil War, who isnt on Iron Man´s team?",
+    "options": ["Vision", "Black Panther", "Hawkeye", "Black WIdow"],
+    "answer": "Hawkeye",
+    "difficulty": "hard"
+  },
+  {
+    "id": "antman-2019",
+    "question": "What is the name of Scott Lang's ex-con friend who loves storytelling?",
+    "options": ["Luis", "Dave", "Kurt", "Jimmy"],
+    "answer": "Luis",
+    "difficulty": "easy"
+  },
+  {
+    "id": "cap1-2002",
+    "question": "What is the name of the Super Soldier program that transforms Steve Rogers?",
+    "options": ["Project Rebirth", "Weapon X", "Operation Renaissance", "Project Pegasus"],
+    "answer": "Project Rebirth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "cap1-2008",
+    "question": "What is the name of the elite unit led by Captain America?",
+    "options": ["The Howling Commandos", "The Super Soldiers", "The Crimson Braves", "Strikeforce"],
+    "answer": "The Howling Commandos",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cap1-2009",
+    "question": "Which actor portrays Bucky Barnes?",
+    "options": ["Sebastian Stan", "Chris Evans", "Anthony Mackie", "Jeremy Renner"],
+    "answer": "Sebastian Stan",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mcu-0164",
+    "question": "What does Stan Lee cameo as in Guardians of the Galaxy Vol. 2?",
+    "options": ["Driver", "Astronaut", "Hospital Patient", "WWII veteran"],
+    "answer": "Astronaut",
+    "difficulty": "hard"
+  },
+  {
+    "id": "cap1-2012",
+    "question": "What is the name of the German assassin who kills Dr. Erskine?",
+    "options": ["Heinz Kruger", "Johann Schmidt", "Arnim Zola", "Baron Strucker"],
+    "answer": "Heinz Kruger",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0275",
+    "question": "What does Stan Lee cameo as in Captain America The First Avenger?",
+    "options": ["Military General", "Pageant Judge", "Hospital Patient", "WWII veteran"],
+    "answer": "Military General",
+    "difficulty": "hard"
+  },
+  {
+    "id": "im3-0009",
+    "question": "What is the name of the organization led by Aldrich Killian?",
+    "options": ["AIM", "HYDRA", "S.H.I.E.L.D.", "Ten Rings"],
+    "answer": "AIM",
+    "difficulty": "medium"
+  },
+  {
+    "id": "im3-0010",
+    "question": "Which U.S. President appears in 'Iron Man 3'?",
+    "options": ["President Ellis", "President Keller", "President Ross", "President Sawyer"],
+    "answer": "President Ellis",
+    "difficulty": "hard"
+  },
+
+  {
+    "id": "im3-0004",
+    "question": "What is the designation of the Iron Man suit that can assemble itself onto Tony Stark?",
+    "options": ["Mark 42", "Mark 7", "Mark 50", "Mark 85"],
+    "answer": "Mark 42",
+    "difficulty": "hard"
+  },
+  {
+    "id": "im3-0011",
+    "question": "What is the name of the protocol Tony Stark activates to summon all his suits?",
+    "options": ["House Party Protocol", "Clean Slate Protocol", "Veronica Protocol", "Suit Up Protocol"],
+    "answer": "House Party Protocol",
+    "difficulty": "medium"
+  },
+  {
+    "id": "im3-0018",
+    "question": "What is the name of the protocol Tony Stark activates to destroy all his suits?",
+    "options": ["Clean Slate Protocol", "House Party Protocol", "Veronica Protocol", "Suit Down Protocol"],
+    "answer": "Clean Slate Protocol",
+    "difficulty": "medium"
+  },
+  {
+    "id": "im3-0020",
+    "question": "Which actor plays the role of Happy Hogan?",
+    "options": ["Jon Favreau", "Clark Gregg", "Paul Bettany", "Don Cheadle"],
+    "answer": "Jon Favreau",
+    "difficulty": "easy"
+  },
+  {
+    "id": "thor-0005",
+    "question": "In 'Thor: The Dark World', who is the leader of the Dark Elves?",
+    "options": ["Malekith", "Kurse", "Algrim", "Bor"],
+    "answer": "Malekith",
+    "difficulty": "hard"
+  },
+  {
+    "id": "thor-0010",
+    "question": "In 'Thor: Ragnarok', what is the name of the planet where Thor is imprisoned?",
+    "options": ["Sakaar", "Xandar", "Knowhere", "Titan"],
+    "answer": "Sakaar",
+    "difficulty": "hard"
+  },
+  {
+    "id": "thor-0015",
+    "question": "What is the name of the fiery demon that fulfills Ragnarok?",
+    "options": ["Surtur", "Fenris", "Korg", "Mephisto"],
+    "answer": "Surtur",
+    "difficulty": "medium"
+  },
+  {
+    "id": "thor-0016",
+    "question": "Who voiced Korg in the Thor films?",
+    "options": ["Taika Waititi", "Karl Urban", "Jeff Goldblum", "Chris Hemsworth"],
+    "answer": "Taika Waititi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "thor-0024",
+    "question": "Which character does Christian Bale portray in 'Thor: Love and Thunder'?",
+    "options": ["Gorr the God Butcher", "Beta Ray Bill", "Kronan Warlord", "Hercules"],
+    "answer": "Gorr the God Butcher",
+    "difficulty": "medium"
+  },
+
+  {
+    "id": "cap1-2011",
+    "question": "Which actress plays Peggy Carter?",
+    "options": ["Hayley Atwell", "Emily Blunt", "Natalie Dormer", "Scarlett Johansson"],
+    "answer": "Hayley Atwell",
+    "difficulty": "easy"
+  },
+  {
+    "id": "thor-0030",
+    "question": "Which realm is the home of the Dark Elves?",
+    "options": ["Svartalfheim", "Niflheim", "Jotunheim", "Alfheim"],
+    "answer": "Svartalfheim",
+    "difficulty": "hard"
+  },
+  {
+    "id": "spidey-0012",
+    "question": "In 'Spider-Man: Far From Home', which villain does Peter face?",
+    "options": ["Mysterio", "Vulture", "Electro", "Sandman"],
+    "answer": "Mysterio",
+    "difficulty": "medium"
+  },
+  {
+    "id": "spidey-0013",
+    "question": "What is the name of Peter Parker's high school?",
+    "options": ["Midtown School of Science and Technology", "Queens High", "Brooklyn Tech", "Empire State High"],
+    "answer": "Midtown School of Science and Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "spidey-0014",
+    "question": "Which actor portrays Mysterio in 'Spider-Man: Far From Home'?",
+    "options": ["Jake Gyllenhaal", "Jake Johnson", "Jared Leto", "James Franco"],
+    "answer": "Jake Gyllenhaal",
+    "difficulty": "medium"
+  },
+  {
+    "id": "spidey-0025",
+    "question": "Which actor portrays Adrian Toomes/Vulture?",
+    "options": ["Michael Keaton", "Michael Douglas", "Michael B. Jordan", "Michael Fassbender"],
+    "answer": "Michael Keaton",
+    "difficulty": "medium"
+  },
+  {
+    "id": "spidey-0026",
+    "question": "What is the name of Peter's classmate who is a news anchor in the school news?",
+    "options": ["Betty Brant", "Liz Allan", "Gwen Stacy", "Sally Avril"],
+    "answer": "Betty Brant",
+    "difficulty": "hard"
+  },
+  {
+    "id": "spidey-0028",
+    "question": "In 'Spider-Man: No Way Home', which villain is cured first?",
+    "options": ["Doctor Octopus", "Electro", "Sandman", "Lizard"],
+    "answer": "Doctor Octopus",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0175",
+    "question": "What does Stan Lee cameo as in Iron Man 3?",
+    "options": ["Driver", "Pageant Judge", "Hospital Patient", "WWII veteran"],
+    "answer": "Pageant Judge",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0275",
+    "question": "What does Stan Lee cameo as in Thor The Dark World?",
+    "options": ["Driver", "Pageant Judge", "Hospital Patient", "WWII veteran"],
+    "answer": "Hospital Patient",
+    "difficulty": "hard"
+  },
+  {
+    "id": "thor-0035",
+    "question": "Who rules New Asgard in 'Thor: Love and Thunder'?",
+    "options": ["Valkyrie", "Thor", "Loki", "Korg"],
+    "answer": "Valkyrie",
+    "difficulty": "easy"
+  },
+  {
+    "id": "thor-0023",
+    "question": "What is the name of the giant screaming goats in 'Thor: Love and Thunder'?",
+    "options": ["Toothgnasher and Toothgrinder", "Thunder and Lightning", "Toothsmasher and Toothbreaker", "Storm and Frost"],
+    "answer": "Toothgnasher and Toothgrinder",
+    "difficulty": "hard"
+  },
+  {
+    "id": "thor-0037",
+    "question": "What is the name of Thor’s ship in 'Love and Thunder'?",
+    "options": ["The Goat Boat", "Storm Skimmer", "Mjolnir Express", "Bifrost Cruiser"],
+    "answer": "The Goat Boat",
+    "difficulty": "hard"
+  },
+
+  {
+    "id": "mcu-0179",
+    "question": "What was Scott Lange arrested for?",
+    "options": ["Burglary", "Assault", "Forgery", "Kidnapping"],
+    "answer": "Burglary",
+    "difficulty": "hard"
+  },
+  {
+    "id": "spidey-0004",
+    "question": "Who plays Spider-Man in the MCU?",
+    "options": ["Tom Holland", "Andrew Garfield", "Tobey Maguire", "Miles Teller"],
+    "answer": "Tom Holland",
+    "difficulty": "easy"
+  },
+  {
+    "id": "spidey-0007",
+    "question": "What is the name of Peter Parker's best friend in the MCU?",
+    "options": ["Ned Leeds", "Harry Osborn", "Flash Thompson", "Eddie Brock"],
+    "answer": "Ned Leeds",
+    "difficulty": "easy"
+  },
+  {
+    "id": "thor-0038",
+    "question": "Which actor plays Zeus in 'Love and Thunder'?",
+    "options": ["Russell Crowe", "Brad Pitt", "Hugh Jackman", "Kurt Russell"],
+    "answer": "Russell Crowe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bp-0005",
+    "question": "What is the name of T'Challa's sister, known for her technological innovations?",
+    "options": ["Shuri", "Nakia", "Okoye", "Ramonda"],
+    "answer": "Shuri",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bp-0009",
+    "question": "What is the name of the Wakandan beads used for communication and healing?",
+    "options": ["Kimoyo Beads", "Vibranium Orbs", "Komoyo Beads", "Komoyi Beads"],
+    "answer": "Kimoyo Beads",
+    "difficulty": "hard"
+  },
+  {
+    "id": "avengers-0013",
+    "question": "What is the name of the dwarf who helps Thor forge Stormbreaker?",
+    "options": ["Eitri", "Dvalin", "Brok", "Sindri"],
+    "answer": "Eitri",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0008",
+    "question": "Who is the Wakandan goddess that led the first Black Panther to the Heart-Shaped Herb?",
+    "options": ["Bast", "Sekhmet", "Ishis", "Ma'at"],
+    "answer": "Bast",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bp-0012",
+    "question": "Which character serves as the spiritual leader and keeper of the Heart-Shaped Herb?",
+    "options": ["Zuri", "Bast", "Ramonda", "N'Jobu"],
+    "answer": "Zuri",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0013",
+    "question": "What is the name of the mountain where the Jabari tribe resides?",
+    "options": ["Mount Bashenga", "Mount Jabari", "Mount T´Chenga", "Mount Hannuman"],
+    "answer": "Mount Bashenga",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0014",
+    "question": "Which language is spoken by the Wakandans in the film?",
+    "options": ["Xhosa", "Swahili", "Zulu", "Afrikaans"],
+    "answer": "Xhosa",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0011",
+    "question": "What is the name of the Wakandan aircraft used by T'Challa?",
+    "options": ["Royal Talon Fighter", "Panther Jet", "Vibranium Cruiser", "Wakandan Glider"],
+    "answer": "Royal Talon Fighter",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0018",
+    "question": "What is the name of the vibranium-powered train system in Wakanda?",
+    "options": ["Maglev Train", "Vibranium Express", "Panther Rail", "Wakandan Monorail"],
+    "answer": "Maglev Train",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0019",
+    "question": "Who is the director of 'Black Panther'?",
+    "options": ["Ryan Coogler", "Taika Waititi", "Jon Favreau", "Joss Whedon"],
+    "answer": "Ryan Coogler",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bp-0022",
+    "question": "Which character is T'Challa's former lover and a War Dog spy?",
+    "options": ["Nakia", "Okoya", "Nadia", "Ayo"],
+    "answer": "Nakia",
+    "difficulty": "hard"
+  },
+  {
+    "id": "gotg-0002",
+    "question": "Which character is known as the 'Destroyer'?",
+    "options": ["Drax", "Ronan", "Thanos", "Korath"],
+    "answer": "Drax",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0004",
+    "question": "Who is the leader of the Ravagers?",
+    "options": ["Yondu Udonta", "Taserface", "Kraglin", "Stakar Ogord"],
+    "answer": "Yondu Udonta",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0011",
+    "question": "What is the name of the Kree fanatic who seeks to destroy Xandar?",
+    "options": ["Ronan", "Korath", "Ravager", "Nebula"],
+    "answer": "Ronan",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bp-0025",
+    "question": "What is the name of the Wakandan ritual site where coronations and challenges take place?",
+    "options": ["Warrior Falls", "Mount Bashenga", "Panther's Peak", "Sacred Grove"],
+    "answer": "Warrior Falls",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0019",
+    "question": "Who is the golden-skinned leader of the Sovereign race?",
+    "options": ["Ayesha", "Nebula", "Gamora", "Mantis"],
+    "answer": "Ayesha",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0020",
+    "question": "What is the name of the song played during the prison scene in the GOTG?",
+    "options": ["Escape (The Piña Colada Song)", "Hooked on a Feeling", "Cherry Bomb", "Ain't No Mountain High Enough"],
+    "answer": "Escape (The Piña Colada Song)",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0120",
+    "question": "What is the name of the song playing as the GOTG prepare for battle togeher with Yondu?",
+    "options": ["Escape (The Piña Colada Song)", "Hooked on a Feeling", "Cherry Bomb", "Ain't No Mountain High Enough"],
+    "answer": "Cherry Bomb",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0024",
+    "question": "What is the name of the genetically engineered being created by the Sovereign to destroy the Guardians?",
+    "options": ["Adam Warlock", "Ego", "Ronan", "Korath"],
+    "answer": "Adam Warlock",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0022",
+    "question": "What is the name of the empathic character introduced in Vol. 2 of Guardians?",
+    "options": ["Mantis", "Ayesha", "Nebula", "Lylla"],
+    "answer": "Mantis",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0028",
+    "question": "Which character is a genetically modified otter and a friend of Rocket?",
+    "options": ["Lylla", "Mantis", "Nebula", "Ayesha"],
+    "answer": "Lylla",
+    "difficulty": "expert"
+  },
+  {
+    "id": "gotg-0032",
+    "question": "Which character is a telepathic Soviet space dog?",
+    "options": ["Cosmo", "Lylla", "Mantis", "Ayesha"],
+    "answer": "Cosmo",
+    "difficulty": "medium"
+  },
+{
+    "id": "gotg-0033",
+    "question": "Which actor plays the voice of Cosmo the Spacedog in 'Guardians of the Galaxy Vol. 3'?",
+    "options": ["Maria Bakalova", "Pom Klementieff", "Zoe Saldana", "Karen Gillan"],
+    "answer": "Maria Bakalova",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0455",
+    "question": "What is Pepper Potts allergic to?",
+    "options": ["Peanuts", "Dairy", "Strawberries", "Mold"],
+    "answer": "Strawberries",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0465",
+    "question": "After escaping from the US, where was Bruce Banner hiding while working in a bottling plant?",
+    "options": ["India", "Columbia", "Brazil", "Ecuador"],
+    "answer": "Brazil",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0355",
+    "question": "What was the name of the missile Tony Stark was demonstrating before his convoy was attacked?",
+    "options": ["Judgement Day", "Pegasus", "Jericho", "Rebirth"],
+    "answer": "Jericho",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0565",
+    "question": "Where was Tony Stark demonstrating a missile before his convoy was attacked?",
+    "options": ["Iraq", "Afghanistan", "US", "Kuwait"],
+    "answer": "Afghanistan",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0255",
+    "question": "Which country did Natalie Rushman work as a model as part of her cover story?",
+    "options": ["Russia", "Japan", "Ukraine", "Latvia"],
+    "answer": "Japan",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0556",
+    "question": "Where did Hawkey travel together with Loki to help steal some Iridium?",
+    "options": ["Berlin", "Munich", "Stuttgart", "Hamburg"],
+    "answer": "Stuttgart",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0565",
+    "question": "Which of the Stones is Thor The Dark World centered around?",
+    "options": ["Soul", "Reality", "Mind", "Power"],
+    "answer": "Reality",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0267",
+    "question": "In Captain America, The First Avenger, in which country is the Tesercat found by the Red Skull?",
+    "options": ["Norway", "Iceland", "Denmark", "Latvia"],
+    "answer": "Norway",
+    "difficulty": "hard"
+  },
+   {
+    "id": "mcu-1275",
+    "question": "What does Stan Lee cameo as in Antman?",
+    "options": ["Bartender", "Pageant Judge", "Hospital Patient", "WWII veteran"],
+    "answer": "Bartender",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0275",
+    "question": "What course does Thor take as an elective in Asgard?",
+    "options": ["Groot", "Midgard", "Maths", "Music"],
+    "answer": "Groot",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-2275",
+    "question": "Who played Obadiah Stane in Iron Man?",
+    "options": ["Shaun Toub", "Jeff Bridges", "Tim Guinee", "Gerard Sanders"],
+    "answer": "Jeff Bridges",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0569",
+    "question": "Who voices Dormammu in Doctor Strange?",
+    "options": ["Benjamin Bratt", "Benedict Cumberbatch", "Micheal Stuhlbarg", "Mads Mikkelsen"],
+    "answer": "Benedict Cumberbatch",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0933",
+    "question": "Which of these items did Rocket not say he needed to escape the prison in GOTG?",
+    "options": ["A security band", "A battery", "A prostethic leg", "A gun"],
+    "answer": "A gun",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0725",
+    "question": "What was Killmonger´s Wakanda name?",
+    "options": ["N´Jaka", "N´Jadaka", "N´Jodobu", "N´Jamaka"],
+    "answer": "N´Jadaka",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0285",
+    "question": "Where is Captain America from?",
+    "options": ["Brooklyn", "Queens", "New Jersey", "Nashville"],
+    "answer": "Brooklyn",
+    "difficulty": "medium"
+  },
+  {
+    "id": "mcu-356",
+    "question": "Who voices Dormammu in Doctor Strange?",
+    "options": ["Benjamin Bratt", "Benedict Cumberbatch", "Micheal Stuhlbarg", "Mads Mikkelsen"],
+    "answer": "Benedict Cumberbatch",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0221",
+    "question": "What is the name of the project to weaponize the Tesseract in *The Avengers*?",
+    "options": [
+      "Project Renaissance",
+      "Project Rebirth",
+      "Project Pegasus",
+      "Project Insight"
+    ],
+    "answer": "Project Pegasus",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0223",
+    "question": "What game is Korg seen playing in *Endgame*?",
+    "options": [
+      "Minecraft",
+      "Fortnite",
+      "Call of Duty",
+      "PUBG"
+    ],
+    "answer": "Fortnite",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0217",
+    "question": "What planet do the Guardians crash on after escaping the Sovereign?",
+    "options": ["Berhert", "Knowhere", "Sakaar", "Xandar"],
+    "answer": "Berhert",
+    "difficulty": "expert"
+  },
+  {
+    "id": "mcu-0130",
+    "question": "Who is revealed to be the real Mandarin in Iron Man 3?",
+    "options": ["Trevor Slattery", "Aldrich Killian", "Obadiah Stane", "Justin Hammer"],
+    "answer": "Aldrich Killian",
+    "difficulty": "hard"
+  },
+  {
+    "id": "mcu-0148",
+    "question": "What type of scientist is Jane Foster?",
+    "options": ["Quantum physicist", "Astrophysicist", "Chemist", "Engineer"],
+    "answer": "Astrophysicist",
+    "difficulty": "easy"
+  },
+  {
+    "id": "mcu-0172",
+    "question": "Who rescues Tony and Nebula from space?",
+    "options": ["Thor", "Captain Marvel", "Nick Fury", "Rocket"],
+    "answer": "Captain Marvel",
+    "difficulty": "medium"
+  },
+  {
+   "id": "mcu-0158",
+   "question": "What name does Scott Lang give the main carpenter ant he rides?",
+   "options": ["Tiny", "Antony", "Winger", "Paul"],
+   "answer": "Antony",
+   "difficulty": "medium"
+  },
+  {
+    "id": "mcu-0120",
+    "question": "What city does Black Panther open a Wakandan outreach center in?",
+    "options": ["Brooklyn", "Chicago", "Oakland", "Atlanta"],
+    "answer": "Oakland",
+    "difficulty": "expert",
+    "score": 1,
+    "category": "Organizations",
+    "tags": ["black panther", "wakanda"],
+    "timed": false,
+    "type": "multiple_choice",
+    "source": "Black Panther (2018)",
+    "explanation": "T’Challa establishes the outreach center in Oakland, where Killmonger grew up."
+  }
+]
+
+
+
+
+
+

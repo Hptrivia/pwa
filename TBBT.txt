@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "bbt-ez-001",
+    "question": "What is Sheldon Cooper's profession?",
+    "options": [
+      "Theoretical physicist",
+      "Mechanical engineer",
+      "Experimental physicist",
+      "Astrophysicist"
+    ],
+    "answer": "Theoretical physicist",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-002",
+    "question": "What song does Sheldon want Penny to sing when he's sick?",
+    "options": [
+      "Soft Kitty",
+      "Twinkle Twinkle",
+      "Happy Birthday",
+      "Lullaby"
+    ],
+    "answer": "Soft Kitty",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-003",
+    "question": "What university do Sheldon and Leonard work at?",
+    "options": [
+      "MIT",
+      "Stanford",
+      "Caltech",
+      "Harvard"
+    ],
+    "answer": "Caltech",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-004",
+    "question": "Who is Leonard's roommate?",
+    "options": [
+      "Raj",
+      "Howard",
+      "Stuart",
+      "Sheldon"
+    ],
+    "answer": "Sheldon",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-005",
+    "question": "What is the name of Sheldon's favorite spot on the couch?",
+    "options": [
+      "Alpha Centauri",
+      "Center Spot",
+      "Sheldon's Spot",
+      "Prime Position"
+    ],
+    "answer": "Sheldon's Spot",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-006",
+    "question": "What is the name of Raj's dog?",
+    "options": [
+      "Cinnamon",
+      "Sugar",
+      "Fluffy",
+      "Spot"
+    ],
+    "answer": "Cinnamon",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-007",
+    "question": "What game do the guys often play on game night?",
+    "options": [
+      "Poker",
+      "Dungeons & Dragons",
+      "Risk",
+      "Call of Duty"
+    ],
+    "answer": "Dungeons & Dragons",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-008",
+    "question": "What is Howard's profession?",
+    "options": [
+      "Doctor",
+      "Engineer",
+      "Professor",
+      "Biologist"
+    ],
+    "answer": "Engineer",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-010",
+    "question": "Who lives across the hall from Sheldon and Leonard?",
+    "options": [
+      "Amy",
+      "Penny",
+      "Raj",
+      "Howard"
+    ],
+    "answer": "Penny",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-011",
+    "question": "What is Penny's profession at the beginning of the series?",
+    "options": [
+      "Waitress",
+      "Actress",
+      "Pharmacist",
+      "Scientist"
+    ],
+    "answer": "Waitress",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-012",
+    "question": "What is the name of the female experimental physicist that worked with Leonard?",
+    "options": [
+      "Sarah",
+      "Mara",
+      "Leslie",
+      "Emily"
+    ],
+    "answer": "Leslie",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-013",
+    "question": "Which of these Languages does Howard not speak?",
+    "options": [
+      "French",
+      "Arabic",
+      "Chinese",
+      "Russian"
+    ],
+    "answer": "Chinese",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-ez-014",
+    "question": "What is Amy Farrah Fowler's profession?",
+    "options": [
+      "Neurobiologist",
+      "Molecular Biologist",
+      "Biochemist",
+      "Microbiologist"
+    ],
+    "answer": "Neurobiologist",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-015",
+    "question": "Who is the only character without a Ph.D. in the main group?",
+    "options": [
+      "Amy",
+      "Howard",
+      "Leonard",
+      "Raj"
+    ],
+    "answer": "Howard",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-016",
+    "question": "What's Sheldon's favorite number?",
+    "options": [
+      "3",
+      "7",
+      "73",
+      "42"
+    ],
+    "answer": "73",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-ez-017",
+    "question": "What's the name of the childhood TV show Sheldon loved?",
+    "options": [
+      "Professor Proton",
+      "Bill Nye",
+      "Science Time",
+      "Space Explorers"
+    ],
+    "answer": "Professor Proton",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-018",
+    "question": "What instrument does Amy play?",
+    "options": [
+      "Harp",
+      "Cello",
+      "Violin",
+      "Piano"
+    ],
+    "answer": "Harp",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-019",
+    "question": "Who is Bernadette married to?",
+    "options": [
+      "Leonard",
+      "Howard",
+      "Raj",
+      "Stuart"
+    ],
+    "answer": "Howard",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-020",
+    "question": "What holiday does Sheldon despise due to gift giving obligations?",
+    "options": [
+      "Halloween",
+      "Christmas",
+      "Thanksgiving",
+      "Valentine's Day"
+    ],
+    "answer": "Christmas",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-021",
+    "question": "What kind of engineer is Howard?",
+    "options": [
+      "Civil",
+      "Electrical",
+      "Aerospace",
+      "Mechanical"
+    ],
+    "answer": "Aerospace",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-ez-022",
+    "question": "What's the name of the flashback episode where Leonard tells Penny what happened to the elavator ?",
+    "options": [
+      "The Elevator Trap",
+      "The Lift Incident",
+      "The Staircase Implementation",
+      "The Elevator Incident"
+    ],
+    "answer": "The Elevator Incident",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-ez-023",
+    "question": "What is Raj unable to do when sober (early in the series)?",
+    "options": [
+      "Walk",
+      "Talk to women",
+      "Drive",
+      "Eat spicy food"
+    ],
+    "answer": "Talk to women",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-024",
+    "question": "What superhero T-shirt is Sheldon most often seen wearing?",
+    "options": [
+      "Batman",
+      "Superman",
+      "Green Lantern",
+      "Flash"
+    ],
+    "answer": "Flash",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-025",
+    "question": "What kind of food does the group often eat together on Friday nights?",
+    "options": [
+      "Pizza",
+      "Chinese takeout",
+      "Burgers",
+      "Mexican"
+    ],
+    "answer": "Chinese takeout",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-001",
+    "question": "What video game causes Penny to become addicted?",
+    "options": [
+      "Age of Conan",
+      "World of Warcraft",
+      "Halo",
+      "Zelda"
+    ],
+    "answer": "Age of Conan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-002",
+    "question": "What comic book store do the guys frequent?",
+    "options": [
+      "Comic Castle",
+      "The Comic Center of Pasadena",
+      "Stuart's Comics",
+      "Comic City"
+    ],
+    "answer": "The Comic Center of Pasadena",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-md-004",
+    "question": "What's the name of the AI Sheldon builds and becomes obsessed with?",
+    "options": [
+      "Shelbot",
+      "Sheldonator",
+      "Mobile Virtual Presence Device",
+      "Virtual Sheldon"
+    ],
+    "answer": "Mobile Virtual Presence Device",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-005",
+    "question": "What sword does Sheldon capture in a game by betraying the rest of the group?",
+    "options": [
+      "The Sword of Azeroth",
+      "Excaliburs Sword",
+      "Soul Calibur",
+      "Longclaw"
+    ],
+    "answer": "The Sword of Azeroth",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-050",
+    "question": "What game was the group playing when Sheldon betrayed them to capture a sword?",
+    "options": [
+      "Legend of Zelda",
+      "Excalibur",
+      "Lord of the Rings",
+      "World of Warcraft"
+    ],
+    "answer": "World of Warcraft",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-006",
+    "question": "What is Raj's sister's name?",
+    "options": [
+      "Anu",
+      "Priya",
+      "Rani",
+      "Neha"
+    ],
+    "answer": "Priya",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-007",
+    "question": "At what age does Sheldon receive his first PhD?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "answer": "16",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-008",
+    "question": "What's the name of Leonard's mother?",
+    "options": [
+      "Beverly",
+      "Susan",
+      "Leslie",
+      "Marie"
+    ],
+    "answer": "Beverly",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-009",
+    "question": "What is the real name of Sheldon's idol 'Professor Proton'?",
+    "options": [
+      "Arthur Jeffries",
+      "Stephen Franklin",
+      "Roger Abrams",
+      "Brian Greene"
+    ],
+    "answer": "Arthur Jeffries",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-010",
+    "question": "What is the name of Penny's ex-boyfriend whom Amy was attracted to?",
+    "options": [
+      "Kurt",
+      "Zack",
+      "Stuart",
+      "Dave"
+    ],
+    "answer": "Zack",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-010",
+    "question": "What is the name of Penny's ex-boyfriend who pantsed Leonard and Sheldon?",
+    "options": [
+      "Kurt",
+      "Zack",
+      "Stuart",
+      "Dave"
+    ],
+    "answer": "Kurt",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-011",
+    "question": "What's the name of Howard and Bernadette's first child?",
+    "options": [
+      "Halley",
+      "Emily",
+      "Sara",
+      "Lisa"
+    ],
+    "answer": "Halley",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-012",
+    "question": "What's the scientific breakthrough Sheldon and Amy win the Nobel Prize for?",
+    "options": [
+      "Quantum Gravity",
+      "Super Asymmetry",
+      "String Theory",
+      "Classical Field Theory"
+    ],
+    "answer": "Super Asymmetry",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-013",
+    "question": "What food does Sheldon usually eat on Thursdays?",
+    "options": [
+      "Pizza",
+      "Spaghetti",
+      "Thai food",
+      "Chinese dumplings"
+    ],
+    "answer": "Pizza",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-014",
+    "question": "What is the name of Professor Protons puppet?",
+    "options": [
+      "Gino",
+      "Jimmy",
+      "Goggles",
+      "Science Kid"
+    ],
+    "answer": "Gino",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-015",
+    "question": "What is Amy's favorite tiara-gifting moment from Sheldon?",
+    "options": [
+      "Her birthday",
+      "Getting published",
+      "Winning an award",
+      "Apology after a fight"
+    ],
+    "answer": "Getting published",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-016",
+    "question": "Which of these is not a Wi-Fi password from the show?",
+    "options": [
+      "Pennygetyourownwifi",
+      "Pennyisafreeloader",
+      "pennygetyourownfood",
+      "pennyalreadyeatsourfood...."
+    ],
+    "answer": "pennygetyourownfood",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-017",
+    "question": "What's the name of the university president?",
+    "options": [
+      "Dr. Siebert",
+      "Dean Foster",
+      "Mr. Lewis",
+      "Chancellor Arnold"
+    ],
+    "answer": "Dr. Siebert",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-018",
+    "question": "What does Raj name his astrophysics discovery?",
+    "options": [
+      "Raj's Star",
+      "Planet Bollywood",
+      "Koothrappali Prime",
+      "Planet Koothrappali"
+    ],
+    "answer": "Planet Bollywood",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-019",
+    "question": "What superhero outfit does Leonard wear to the Comic Book Store New Year eve party?",
+    "options": [
+      "Superman",
+      "Iron Man",
+      "Green Lantern",
+      "Batman"
+    ],
+    "answer": "Green Lantern",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-020",
+    "question": "What is the title of the theme song's band?",
+    "options": [
+      "The Barenaked Ladies",
+      "Weezer",
+      "Smash Mouth",
+      "The Offspring"
+    ],
+    "answer": "The Barenaked Ladies",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-019",
+    "question": "What superhero outfit does Raj wear to the Comic Book Store New Year eve party?",
+    "options": [
+      "Superman",
+      "AquaMan",
+      "Green Lantern",
+      "Batman"
+    ],
+    "answer": "AquaMan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-023",
+    "question": "What pet name does Howard call Bernadette?",
+    "options": [
+      "Sweetums",
+      "Snugglebug",
+      "Honeybunch",
+      "Bernie"
+    ],
+    "answer": "Bernie",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-024",
+    "question": "What is Sheldon's favorite science fiction franchise?",
+    "options": [
+      "Star Wars",
+      "Stargate",
+      "BattleStar Galactica",
+      "Star Trek"
+    ],
+    "answer": "Star Trek",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-025",
+    "question": "Which of these Jobs does Leonards mom not have?",
+    "options": [
+      "Author",
+      "Professor",
+      "Psychiatrist",
+      "Neuroscientist"
+    ],
+    "answer": "Professor",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-hd-001",
+    "question": "Who was Sheldons childhood best friend?",
+    "options": [
+      "No one",
+      "His sister",
+      "Georgie",
+      "Tam"
+    ],
+    "answer": "Tam",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-002",
+    "question": "What musical instrument does Sheldon try to learn to disrupt the groups project?",
+    "options": [
+      "Bongos",
+      "Theremin",
+      "Drums",
+      "Cello"
+    ],
+    "answer": "Theremin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-003",
+    "question": "What's the name of the game Sheldon invents?",
+    "options": [
+      "Physics Quest",
+      "Mystic Warlords of Ka'a",
+      "Research Lab",
+      "Quantum Checkers"
+    ],
+    "answer": "Research Lab",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-004",
+    "question": "What clause in the Roomate agreement will reduce the friendship between Leonard and Sheldon to mere acquaintances?",
+    "options": [
+      "109",
+      "209",
+      "309",
+      "409"
+    ],
+    "answer": "209",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-005",
+    "question": "What was Penny's role in a low-budget horror film?",
+    "options": [
+      "Zombie Victim",
+      "Zombie Apeist",
+      "Slutty Apeist",
+      "Serial Apeist"
+    ],
+    "answer": "Serial Apeist",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-007",
+    "question": "What is the name of Sheldons Assistant who flirts with Leonard?",
+    "options": [
+      "Alex",
+      "Mary",
+      "Lucy",
+      "Angela"
+    ],
+    "answer": "Alex",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-008",
+    "question": "What is the name of Raj's on-and-off girlfriend who is deaf?",
+    "options": [
+      "Bea",
+      "Lucy",
+      "Angela",
+      "Emily"
+    ],
+    "answer": "Emily",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-010",
+    "question": "What does Howard go to space as part of?",
+    "options": [
+      "NASA program",
+      "Soyuz mission",
+      "Mars simulation",
+      "Aerospace engineering team"
+    ],
+    "answer": "Soyuz mission",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-011",
+    "question": "What is the name of Amys smoking monkey?",
+    "options": [
+      "Ricky",
+      "George",
+      "Kong",
+      "Luke"
+    ],
+    "answer": "Ricky",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-012",
+    "question": "What's the name of Leonard's middle school tormentor?",
+    "options": [
+      "Jimmy Speckerman",
+      "Barry Grey",
+      "Zack Johnson",
+      "Chuck Cunningham"
+    ],
+    "answer": "Jimmy Speckerman",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-013",
+    "question": "What is the name of the software project that the gang sells to the military?",
+    "options": [
+      "Guidance System",
+      "Satellite Array",
+      "Orbital Trajectory Planner",
+      "Navigational Control"
+    ],
+    "answer": "Guidance System",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-014",
+    "question": "What instrument does Penny play with the group when Bernadette was in Quarantine?",
+    "options": [
+      "Harp",
+      "Violin",
+      "Tambourine",
+      "Drums"
+    ],
+    "answer": "Tambourine",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-015",
+    "question": "What instrument does Raj play with the group when Bernadette was in Quarantine?",
+    "options": [
+      "Harp",
+      "Ukulele",
+      "Tambourine",
+      "Flute"
+    ],
+    "answer": "Ukulele",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-016",
+    "question": "What is the name of Penny's hometown?",
+    "options": [
+      "Lincoln",
+      "Omaha",
+      "Papillion",
+      "Nebraska City"
+    ],
+    "answer": "Omaha",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-018",
+    "question": "What board game was the gang playing in the episode where Amy goes on a date with Stewart?",
+    "options": [
+      "Settlers of Catan",
+      "Mystic Warlords of Ka'a",
+      "Campain for North Africa",
+      "Dungeonand Dragons"
+    ],
+    "answer": "Mystic Warlords of Ka'a",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-020",
+    "question": "How much was the Mystic Warlords of Ka´a Wild West and Witches Expansion Pack?",
+    "options": [
+      "20.95",
+      "24.95",
+      "15.99",
+      "19.99"
+    ],
+    "answer": "24.95",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-hd-021",
+    "question": "Amy, little Vixen. Just working it under all those layers of wool and .......?",
+    "options": [
+      "silk",
+      "polyester",
+      "yarn",
+      "cotton"
+    ],
+    "answer": "polyester",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-022",
+    "question": "What was the name of the person Stewart left in charge of the comic book store during his date with Amy?",
+    "options": [
+      "Dale",
+      "Denise",
+      "Lily",
+      "Frank"
+    ],
+    "answer": "Dale",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-023",
+    "question": "What's the name of Stewarts girlfriend whom Amy asked to teach her about comics?",
+    "options": [
+      "Lily",
+      "Angela",
+      "Denise",
+      "Marie"
+    ],
+    "answer": "Denise",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-024",
+    "question": "What kind of business venture does Penny later succeed in?",
+    "options": [
+      "Acting",
+      "Commercials",
+      "Pharmaceutical sales",
+      "Real estate"
+    ],
+    "answer": "Pharmaceutical sales",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-025",
+    "question": "What was the smartphone app idea that the Leonard had supposed to solve",
+    "options": [
+      "Differential equations",
+      "Advanced Calculus",
+      "Advanced Theorems",
+      "Continuity of Fractions"
+    ],
+    "answer": "Differential equations",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-001",
+    "question": "What was the exact episode title where Sheldon meets Amy?",
+    "options": [
+      "The Robotic Manipulation",
+      "The Lunar Excitation",
+      "The Roommate Transmogrification",
+      "The Agreement Dissection"
+    ],
+    "answer": "The Lunar Excitation",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-002",
+    "question": "Who punched Leonard in the face with his own fists in the third grade?",
+    "options": [
+      "Jimmy Speckerman",
+      "Jimmy Mullins",
+      "Steve Barnett",
+      "Todd Davies"
+    ],
+    "answer": "Jimmy Mullins",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-003",
+    "question": "What is the name of the robot the gang creates to enter into a robot show?",
+    "options": [
+      "SIMON",
+      "Shelbot",
+      "MONTE",
+      "ROVER"
+    ],
+    "answer": "MONTE",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-004",
+    "question": "What is the name of the guy who stole all Sheldons World of Warcraft items?",
+    "options": [
+      "Jimmy Mullins",
+      "Todd Zarnecki",
+      "Eric Mercer",
+      "Desmond Rourke"
+    ],
+    "answer": "Todd Zarnecki",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-005",
+    "question": "What is the specific model of Sheldons laptop that Howard put on his naked lap?",
+    "options": [
+      "Dell XPS",
+      "Alienware M17x R2",
+      "Alienware 17 R3",
+      "Lenovo ThinkPad T61"
+    ],
+    "answer": "Dell XPS",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-006",
+    "question": "What kind of Popsicle did Howard ask his mother for , which she replied that she had eaten it?",
+    "options": [
+      "Strawberry",
+      "Lemon-Lime",
+      "Grape",
+      "Cherry"
+    ],
+    "answer": "Cherry",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-007",
+    "question": "What is the name of Sheldons Battle Ostrich?",
+    "options": [
+      "Glenn",
+      "Winged Fury",
+      "Winged Justice",
+      "Helix"
+    ],
+    "answer": "Glenn",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-008",
+    "question": "What car did Kripke´s  robot (The Kripke Krippler) reduce to rubble?",
+    "options": [
+      "Honda",
+      "Chevy",
+      "Toyota",
+      "Land Rover"
+    ],
+    "answer": "Chevy",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-009",
+    "question": "What is the name of the girl that spits in Howards hair when he was 14?",
+    "options": [
+      "Marcy Grossman",
+      "Lily Grossman",
+      "Halie Grossman",
+      "Martha Grossman"
+    ],
+    "answer": "Marcy Grossman",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-010",
+    "question": "What does Penny name the hair berets that she made with Sheldons help?",
+    "options": [
+      "Glow by Penny",
+      "Penny Berets",
+      "Penny Blossom",
+      "Penny Petals"
+    ],
+    "answer": "Penny Blossom",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-xp-011",
+    "question": "How many RPMs does Barry Kripkes robot(The Krippler Krusher) spin at?",
+    "options": [
+      "3300",
+      "3400",
+      "4300",
+      "4400"
+    ],
+    "answer": "3400",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-012",
+    "question": "What exact term does Sheldon use to insult geologists?",
+    "options": [
+      "Dirt people",
+      "Rock nerds",
+      "Fossil freaks",
+      "Pebble pushers"
+    ],
+    "answer": "Dirt people",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-013",
+    "question": "What comic book did Sheldon get annoyed at Stewart for reserving for him preventing his mind from being pre-blown?",
+    "options": [
+      "Spiderman",
+      "Hellboy",
+      "The flash",
+      "Superman"
+    ],
+    "answer": "Hellboy",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-014",
+    "question": "Howard found out that his Zero Gravity Waste Disposal System was going to fail after how many flushes?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-015",
+    "question": "What's the name of Pennys musician friend from her hometown who was going to crash on her couch?",
+    "options": [
+      "Justin",
+      "Sean",
+      "Mike",
+      "Cory"
+    ],
+    "answer": "Justin",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-016",
+    "question": "What band did Penny say Leonard never heard of until she met him?",
+    "options": [
+      "Led Zeppelin",
+      "Hootie and the Blowfish",
+      "Black Eyed Peas",
+      "Black Sabbath"
+    ],
+    "answer": "Black Eyed Peas",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-xp-017",
+    "question": "What is the name of Raj's planetarium show?",
+    "options": [
+      "Stars and Beyond",
+      "Celestial Explorers",
+      "Mysteries of the Cosmos",
+      "Raj in Space"
+    ],
+    "answer": "Mysteries of the Cosmos",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-ez-1b-001",
+    "question": "What is Sheldon's favorite Monday breakfast food?",
+    "options": [
+      "French toast",
+      "Oatmeal",
+      "Pancakes",
+      "Scrambled eggs"
+    ],
+    "answer": "Oatmeal",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-ez-1b-002",
+    "question": "What TV show does Sheldon hate ?",
+    "options": [
+      "Firefly",
+      "Babylon 5",
+      "Battlestar Galactica",
+      "Heroes"
+    ],
+    "answer": "Babylon 5",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-003",
+    "question": "What kind of pet does Raj own?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Rabbit",
+      "Lizard"
+    ],
+    "answer": "Dog",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-004",
+    "question": "Who does Howard live with before getting married?",
+    "options": [
+      "His grandmother",
+      "His mother",
+      "Leonard",
+      "Raj"
+    ],
+    "answer": "His mother",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-005",
+    "question": "What kind of memory does Sheldon claim to have?",
+    "options": [
+      "Eidetic",
+      "Photgraphic",
+      "Semantic",
+      "Spatial"
+    ],
+    "answer": "Eidetic",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-006",
+    "question": "What was Penny's last name before marriage?",
+    "options": [
+      "Blake",
+      "Teller",
+      "Smith",
+      "Never revealed"
+    ],
+    "answer": "Never revealed",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-007",
+    "question": "What instrument does Leonard play?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Cello",
+      "Piano"
+    ],
+    "answer": "Cello",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-008",
+    "question": "Where does Sheldon store his emergency kit?",
+    "options": [
+      "Bathroom",
+      "Under the bed",
+      "Closet",
+      "Basement"
+    ],
+    "answer": "Closet",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-009",
+    "question": "What kind of seat does Sheldon reserve in the movie theater?",
+    "options": [
+      "End seat",
+      "Aisle seat",
+      "Center seat",
+      "Front row"
+    ],
+    "answer": "Center seat",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-008",
+    "question": "Where does Sheldon store his backup emergency kit as he explained to Dr Plimpton?",
+    "options": [
+      "Bathroom",
+      "Under the bed",
+      "Closet",
+      "Basement"
+    ],
+    "answer": "Under the bed",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-ez-1b-011",
+    "question": "What is Shedlons signature catchphrase?",
+    "options": [
+      "Gotcha",
+      "Bazinga",
+      "Soft kitty",
+      "Knock Knock"
+    ],
+    "answer": "Bazinga",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-012",
+    "question": "What is Amy Fowler´s middle name?",
+    "options": [
+      "Maryann",
+      "Farrah",
+      "Marie",
+      "Ferrah"
+    ],
+    "answer": "Farrah",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-ez-1b-013",
+    "question": "Where did Penny grow up?",
+    "options": [
+      "Texas",
+      "Nebraska",
+      "Oklahoma",
+      "Iowa"
+    ],
+    "answer": "Nebraska",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-ez-1b-034",
+    "question": "What is Bernadette´s middle name?",
+    "options": [
+      "Maryann",
+      "Luisa",
+      "Marie",
+      "Sara"
+    ],
+    "answer": "Maryann",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-002",
+    "question": "What was Raj's job at Caltech?",
+    "options": [
+      "Theoretical physicist",
+      "Astrophysicist",
+      "Experimental physicist",
+      "Molecular physicist"
+    ],
+    "answer": "Astrophysicist",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-003",
+    "question": "What is the name of Bernadettes co worker who went out with Raj?",
+    "options": [
+      "Anu",
+      "Ruchi",
+      "Joti",
+      "Lakshmi"
+    ],
+    "answer": "Ruchi",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-1b-004",
+    "question": "What is the name of the pharmaceutical company Barnadette worked for?",
+    "options": [
+      "ZanGen",
+      "ZenGen",
+      "GenZen",
+      "GanZen"
+    ],
+    "answer": "ZanGen",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-1b-005",
+    "question": "What gift does Sheldon give Amy to apologise for his behaviour during their date ?",
+    "options": [
+      "Stuffed animal",
+      "Tiara",
+      "Chocolate",
+      "String theory book"
+    ],
+    "answer": "Tiara",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-006",
+    "question": "What is Leonard's middle name?",
+    "options": [
+      "James",
+      "Hofstadter",
+      "Leakey",
+      "Hank"
+    ],
+    "answer": "Leakey",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-007",
+    "question": "Which university did Leonard attend for his PhD?",
+    "options": [
+      "Princeton",
+      "MIT",
+      "Caltech",
+      "Stanford"
+    ],
+    "answer": "Princeton",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-009",
+    "question": "What is the name of the person who officiates Sheldon and Amy's wedding?",
+    "options": [
+      "Wil Wheaton",
+      "Leonard",
+      "Mark Hamill",
+      "Howard"
+    ],
+    "answer": "Mark Hamill",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-1b-010",
+    "question": "What show was on a flash drive in the emergency provisions as described to Dr Plimpton by Sheldon?",
+    "options": [
+      "Star Trek",
+      "Star Wars",
+      "Lord of the Rings",
+      "Firefly"
+    ],
+    "answer": "Star Trek",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-md-1b-011",
+    "question": "Sheldons house guest, Dr Plimpton was a leading expert in.....?",
+    "options": [
+      "Quantum cosmology",
+      "Theoretical Physics",
+      "Dark matter detection",
+      "Higgs Boson"
+    ],
+    "answer": "Quantum cosmology",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-012",
+    "question": "Which of these people did not have a PhD?",
+    "options": [
+      "Leonard",
+      "Sheldon",
+      "Raj",
+      "Howard"
+    ],
+    "answer": "Howard",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-md-1b-013",
+    "question": "What is Sheldons jar money guarded by according to him?",
+    "options": [
+      "Bats",
+      "Snakes",
+      "Spiders",
+      "Scorpions"
+    ],
+    "answer": "Snakes",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-hd-1b-001",
+    "question": "In which super hero´s hollowed out ass did Sheldon keep some of his money?",
+    "options": [
+      "Green Lantern",
+      "The Flash",
+      "Superman",
+      "Batman"
+    ],
+    "answer": "Green Lantern",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-002",
+    "question": "how much was Pennys acting classes in the episode where she borrows money from sheldon?",
+    "options": [
+      "150 dollars",
+      "160 dollars",
+      "170 dollars",
+      "180 dollars"
+    ],
+    "answer": "170 dollars",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-hd-1b-003",
+    "question": "How much was the fine Penny paid for her ex Kurt for taking a whiz on a cop car?",
+    "options": [
+      "1700 dollars",
+      "1800 dollars",
+      "1900 dollars",
+      "2000 dollars"
+    ],
+    "answer": "1800 dollars",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-hd-1b-004",
+    "question": "Where does Kurt tattoo on Leonards body when he ask for Penny´s money back?",
+    "options": [
+      "Stomach",
+      "Back",
+      "Forehead",
+      "Cheeks"
+    ],
+    "answer": "Forehead",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-hd-1b-005",
+    "question": "What does Sheldon name his relationship contract with Amy?",
+    "options": [
+      "The Relationship Pact",
+      "Love Accord",
+      "The Relationship Agreement",
+      "The Amy Accord"
+    ],
+    "answer": "The Relationship Agreement",
+    "difficulty": "easy"
+  },
+  {
+    "id": "bbt-hd-1b-006",
+    "question": "What embarrassing story does Leonard's mother share in her books?",
+    "options": [
+      "His bedwetting",
+      "His failed science fair",
+      "His imaginary friend",
+      "His fear of the dark"
+    ],
+    "answer": "His bedwetting",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-hd-1b-007",
+    "question": "What is the name of Dr Beverly´s book about Leonard?",
+    "options": [
+      "The Disappointing Child",
+      "The Inadequate Child",
+      "The Embarassing Child",
+      "The Unremarkable Child"
+    ],
+    "answer": "The Disappointing Child",
+    "difficulty": "medium"
+  },
+  {
+    "id": "bbt-hd-1b-008",
+    "question": "Which train does the gang take instead of flying for their San Francisco Physics conference?",
+    "options": [
+      "Southern Pacific Daylight",
+      "Union Pacific Starlight",
+      "Amtrak Coast Starlight",
+      "Norfolk Western Daylight"
+    ],
+    "answer": "Amtrak Coast Starlight",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-009",
+    "question": "What is the name of Sheldon's brother?",
+    "options": [
+      "George Jr.",
+      "Billy Jr",
+      "Tommy Jr",
+      "James Jr"
+    ],
+    "answer": "George Jr.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-010",
+    "question": "How many years older than Sheldon is his brother?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "5",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-011",
+    "question": "What does Leonard dress up as to Penny´s Halloween party in Season 1?",
+    "options": [
+      "Frodo",
+      "Robinhood",
+      "Peter Pan",
+      "Green Lantern"
+    ],
+    "answer": "Frodo",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-012",
+    "question": "What city do the guys visit for a Comicon convention passing near an area where Star Trek was filmed?",
+    "options": [
+      "San Diego",
+      "Las Vegas",
+      "Pasadena",
+      "Bakersfield"
+    ],
+    "answer": "Bakersfield",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-1b-001",
+    "question": "What was the name of Sheldon's childhood neighbor who repeatedly did awful things to him?",
+    "options": [
+      "Tommy",
+      "Billy Sparks",
+      "Kevin",
+      "Doug"
+    ],
+    "answer": "Billy Sparks",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-002",
+    "question": "What is the name of the Star Trek character that Sheldon idolizes?",
+    "options": [
+      "James T. Kirk",
+      "Spock",
+      "Montgomery Scott",
+      "Jean-Luc Picard"
+    ],
+    "answer": "Spock",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-011",
+    "question": "What does Howard dress up as to Penny´s Halloween party in Season 1?",
+    "options": [
+      "Frodo",
+      "Robinhood",
+      "Peter Pan",
+      "Green Lantern"
+    ],
+    "answer": "Robinhood",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-hd-1b-011",
+    "question": "What did Penny think Howards costume was at her Halloween party in Season 1?",
+    "options": [
+      "Frodo",
+      "Robinhood",
+      "Peter Pan",
+      "Green Lantern"
+    ],
+    "answer": "Peter Pan",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-1b-005",
+    "question": "What comic book was Sheldon going to request Stan Lee sign for him when he visited for a signing?",
+    "options": [
+      "Batman",
+      "The Flash",
+      "Fantastic Four",
+      "Superman"
+    ],
+    "answer": "Batman",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-006",
+    "question": "Who did Stuart bring Will Wheaton in as a replacement for during their bowling game ?",
+    "options": [
+      "Captain Sweatpants",
+      "Albino Bob",
+      "Pixel Pete",
+      "Velcro Vince"
+    ],
+    "answer": "Albino Bob",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-007",
+    "question": "I have been familiarizing myself with female emotional crises by studying the comic strip .......?",
+    "options": [
+      "Cathy",
+      "Luann",
+      "Elly",
+      "Rita"
+    ],
+    "answer": "Cathy",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-020",
+    "question": "As a punishment for their loss in the Bowling game with Will Wheaton, Which female superhero did Howard dress as?",
+    "options": [
+      "Batgirl",
+      "Wonder Woman",
+      "Supergirl",
+      "Catwoman"
+    ],
+    "answer": "Batgirl",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-056",
+    "question": "As a punishment for their loss in the Bowling game with Will Wheaton, Which female superhero did Leonard dress as?",
+    "options": [
+      "Batgirl",
+      "Wonder Woman",
+      "Supergirl",
+      "Catwoman"
+    ],
+    "answer": "Supergirl",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-070",
+    "question": "As a punishment for their loss in the Bowling game with Will Wheaton, Which female superhero did Raj dress as?",
+    "options": [
+      "Batgirl",
+      "Wonder Woman",
+      "Supergirl",
+      "Catwoman"
+    ],
+    "answer": "Catwoman",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-010",
+    "question": "What kind of bird was on the Apartment window when Sheldon called Animal Control?",
+    "options": [
+      "Eagle",
+      "Owl",
+      "Blue Jay",
+      "Hummingbird"
+    ],
+    "answer": "Blue Jay",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-010",
+    "question": "As a punishment for their loss in the Bowling game with Will Wheaton, Which female superhero did Sheldon dress as?",
+    "options": [
+      "Batgirl",
+      "Wonder Woman",
+      "Supergirl",
+      "Catwoman"
+    ],
+    "answer": "Wonder Woman",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-1b-012",
+    "question": "Sheldon and Leonard live at North Robles Avenue No....?",
+    "options": [
+      "2311",
+      "2411",
+      "3211",
+      "3311"
+    ],
+    "answer": "2311",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-018",
+    "question": "Which of these people wasnt mentioned in Sheldon Scientists ranking Car game with Leonard?",
+    "options": [
+      "Halbert Vanderplatt",
+      "Isaac Newton",
+      "Abu Musa Jabr Ibn Hayn",
+      "Niels Bohr"
+    ],
+    "answer": "Niels Bohr",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-019",
+    "question": "What is the name of the girl that was flying in from London to meet Raj at his cousins (Sanjay) wedding?",
+    "options": [
+      "Priya",
+      "Lakshmi",
+      "Joti",
+      "Diya"
+    ],
+    "answer": "Lakshmi",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-020",
+    "question": "What movie did Raj rent the 4 hour edition of, but Howard and Leornard had a double date?",
+    "options": [
+      "Watchmen",
+      "Star Wars",
+      "Star Trek",
+      "Lord of the Rings"
+    ],
+    "answer": "Watchmen",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-021",
+    "question": "What is the name of the two dimensional world that is one of Sheldon´s favorite places to visit?",
+    "options": [
+      "Flatland",
+      "Alpha 5",
+      "Sheldonopolis",
+      "Alpha 1"
+    ],
+    "answer": "Flatland",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-022",
+    "question": "In the two dimensional world Sheldon likes to visit, What shape are the girls there most attracted to?",
+    "options": [
+      "Squares",
+      "Circle",
+      "Triangle",
+      "Hexagon"
+    ],
+    "answer": "Circle",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-023",
+    "question": "What is Rajesh Koothrappali middle name?",
+    "options": [
+      "Ramayan",
+      "Raghavan",
+      "Ramithan",
+      "Rajnandan"
+    ],
+    "answer": "Ramayan",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-024",
+    "question": "What language was Sheldon learning in the episode where he and Raj go to a mixer to pick up girls?",
+    "options": [
+      "Finnish",
+      "Hungarian",
+      "Estonian",
+      "Mandarin"
+    ],
+    "answer": "Finnish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "bbt-xp-025",
+    "question": "What is the name of the cosmological phsicist from Princeton that Sheldon hosts as the apartment?",
+    "options": [
+      "Elizabeth",
+      "Mary",
+      "Leslie",
+      "Martha"
+    ],
+    "answer": "Elizabeth",
+    "difficulty": "expert"
+  },
+  {
+    "id": "bbt-xp-025",
+    "question": "What is the name of the girl that was attracted to Sheldon in the episode where he and Raj go to a mixer to pick up girls?",
+    "options": [
+      "Elizabeth",
+      "Mary",
+      "Leslie",
+      "Martha"
+    ],
+    "answer": "Martha",
+    "difficulty": "expert"
+  }
+]
