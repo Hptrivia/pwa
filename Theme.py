@@ -346,7 +346,7 @@ def next_question(
 
 
     # 5) clear any old wizard hint
-    wiz_clear = gr.update(value="")
+    wiz_clear = gr.update(value="", visible=False)
 
     return (
         *core,
