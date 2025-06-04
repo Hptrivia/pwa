@@ -67,7 +67,7 @@ friend_templates_by_theme = {
 
 def load_vouchers():
      os.makedirs(PERSISTENT_DIR, exist_ok=True)
-    if not os.path.isfile(VOUCHER_FILE):
+     if not os.path.isfile(VOUCHER_FILE):
         with open(VOUCHER_FILE, "w") as f:
             json.dump({}, f, indent=2)
         return {}
