@@ -163,7 +163,7 @@ def save_feedback(msg):
         return gr.update(value="⚠️ Enter feedback before submitting.",visible=True), gr.update(value="")
     os.makedirs(PERSISTENT_DIR, exist_ok=True)    
     ts=datetime.datetime.now().isoformat()
-    with open("FEEDBACK_FILE,"a",encoding="utf-8") as f:
+    with open(FEEDBACK_FILE,"a",encoding="utf-8") as f:
         f.write(f"[{ts}] {msg}\n\n")
     return gr.update(value="✅ Thanks for your feedback!",visible=True), gr.update(value="")
 
