@@ -71,7 +71,7 @@ def load_vouchers():
         with open(VOUCHER_FILE, "w") as f:
             json.dump({}, f, indent=2)
         return {}
-    with open(VOUCHER_FILE, "r") as f:
+     with open(VOUCHER_FILE, "r") as f:
         return json.load(f)
 
 def save_vouchers(v):
