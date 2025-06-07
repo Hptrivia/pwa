@@ -665,7 +665,8 @@ with gr.Blocks() as demo:
             "Answer up to 200 questions of varying difficulty on a 40s timer.  "
             "You have two lifelines—50/50 and Call-a-Friend —which you can restore by answering correct questions.  "
             "One wrong answer ends the game\n\n"
-            "**Update Section:**\n\nHere I will be posting updates on new features, challenges, tournaments and prizes for players. Follow on Instagram/Tiktok @triviaking2025 for quicker updates.\n\n",
+            "**Update Section:**\n\nHere I will be posting updates on new features, challenges, tournaments and prizes for players. Follow on Instagram/Tiktok @triviaking2025 for quicker updates.\n\n"
+            "1.**Click on the share icon on the top right of your browser, scroll to the bottom and click add to home screen. This will enable you have the game as an app icon on your phone**\n\n",
             visible=True
         )
         start_quiz_btn  = gr.Button("🎮 Play Quiz")
